@@ -1,3 +1,10 @@
+{
+ "status": "Success",
+  "code": "200",
+  "message": "Candidates fetched successfully",
+  
+
+"candidates":
 [
   {
     "tApplicationNo": "NSMF250005390000",
@@ -4320,3 +4327,4 @@
     "Gender": "Female"
   }
 ]
+}
