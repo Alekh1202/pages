@@ -1,0 +1,4322 @@
+[
+  {
+    "tApplicationNo": "NSMF250005390000",
+    "RegistrationNo": "VPM1704538",
+    "tRollNumber": "11010001",
+    "tName": "AMRITA SINGH",
+    "tFatherName": "BALSUNDAR",
+    "tMotherName": "SHANTI DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005152000",
+    "RegistrationNo": "VPM0098313",
+    "tRollNumber": "11010002",
+    "tName": "REENA TIRKEY",
+    "tFatherName": "PHILMON TIRKEY",
+    "tMotherName": "LALITA TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005252000",
+    "RegistrationNo": "VPM0262811",
+    "tRollNumber": "11010003",
+    "tName": "ANSHUMALA EKKA",
+    "tFatherName": "ANIL EKKA",
+    "tMotherName": "NEELKUSUM EKKA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005072000",
+    "RegistrationNo": "VPM0793339",
+    "tRollNumber": "11010004",
+    "tName": "SHIV KUMAR",
+    "tFatherName": "RAMESHWAR",
+    "tMotherName": "FULMANI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005394000",
+    "RegistrationNo": "VPM1794597",
+    "tRollNumber": "11010005",
+    "tName": "CHANDA",
+    "tFatherName": "TEJRAAM ",
+    "tMotherName": "HIRMUNIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398000",
+    "RegistrationNo": "VPM1801370",
+    "tRollNumber": "11010006",
+    "tName": "KIRAN",
+    "tFatherName": "JEET SINGH",
+    "tMotherName": "FULMANIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005181100",
+    "RegistrationNo": "VPM1002616",
+    "tRollNumber": "11010007",
+    "tName": "KUMARI PRAMITA SINGH",
+    "tFatherName": "KAMLESH SINGH",
+    "tMotherName": "SHASHI  DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005344100",
+    "RegistrationNo": "VPM1788924",
+    "tRollNumber": "11010008",
+    "tName": "NEHA KUJUR",
+    "tFatherName": "VIDESHWAR KUJUR",
+    "tMotherName": "SARITA KUJUR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005054100",
+    "RegistrationNo": "VPM0261886",
+    "tRollNumber": "11010009",
+    "tName": "RUCHI BHAGAT",
+    "tFatherName": "JAMUNA BHAGAT",
+    "tMotherName": "JASANTI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374200",
+    "RegistrationNo": "VPM0618026",
+    "tRollNumber": "11010010",
+    "tName": "SANDHYA",
+    "tFatherName": "HINGBALI  SINGH",
+    "tMotherName": "RAMKUMARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398200",
+    "RegistrationNo": "VPM1801344",
+    "tRollNumber": "11010011",
+    "tName": "MAIKAL MINJ",
+    "tFatherName": "SUKH SAI",
+    "tMotherName": "JOLIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005391300",
+    "RegistrationNo": "VPM0870552",
+    "tRollNumber": "11010012",
+    "tName": "NISHKLANK EKKA",
+    "tFatherName": "CLABER EKKA",
+    "tMotherName": "ANJELA EKKA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005204300",
+    "RegistrationNo": "VPM0978773",
+    "tRollNumber": "11010013",
+    "tName": "PREMLATA YADAV",
+    "tFatherName": "DINESH YADAV ",
+    "tMotherName": "LALITA YADAV",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005043500",
+    "RegistrationNo": "VPM1709965",
+    "tRollNumber": "11010014",
+    "tName": "RAVINA",
+    "tFatherName": "KAPIL RAM ",
+    "tMotherName": "SAMUNDRI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373500",
+    "RegistrationNo": "VPM1701364",
+    "tRollNumber": "11010015",
+    "tName": "SANGEETA SINGH",
+    "tFatherName": "GHARBHARAN SINGH",
+    "tMotherName": "RAJMANIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373600",
+    "RegistrationNo": "VPM1446882",
+    "tRollNumber": "11010016",
+    "tName": "SANDEEP TOPPO",
+    "tFatherName": "MOHAN TOPPO",
+    "tMotherName": "PHUDNI TOPPO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005387600",
+    "RegistrationNo": "VPM0232515",
+    "tRollNumber": "11010017",
+    "tName": "SANJAY KUMAR SINGH",
+    "tFatherName": "MR. NET RAM ",
+    "tMotherName": "MRS. DEVANTI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005320700",
+    "RegistrationNo": "VPM1785112",
+    "tRollNumber": "11010018",
+    "tName": "SARITA",
+    "tFatherName": "BUDHANA RAM",
+    "tMotherName": "SUNDRI DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005411700",
+    "RegistrationNo": "VPM1803435",
+    "tRollNumber": "11010019",
+    "tName": "PUSHPA",
+    "tFatherName": "ALAM SINGH",
+    "tMotherName": "FULESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005184700",
+    "RegistrationNo": "VPM0514657",
+    "tRollNumber": "11010020",
+    "tName": "MANTI",
+    "tFatherName": "MOHAN RAM",
+    "tMotherName": "SAVITRI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005345700",
+    "RegistrationNo": "VPM1318355",
+    "tRollNumber": "11010021",
+    "tName": "AGUSTUS KERKETTA",
+    "tFatherName": "RAMESHWAR KERKETTA",
+    "tMotherName": "MARIAM",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005098700",
+    "RegistrationNo": "VPM0545285",
+    "tRollNumber": "11010022",
+    "tName": "SHANKAR LAKRA",
+    "tFatherName": "JAY LAL",
+    "tMotherName": "LALMANIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005049700",
+    "RegistrationNo": "VPM0248430",
+    "tRollNumber": "11010023",
+    "tName": "DEEPA",
+    "tFatherName": "NADHIRA RAM ",
+    "tMotherName": "PHOOLPATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005410800",
+    "RegistrationNo": "VPM0816983",
+    "tRollNumber": "11010024",
+    "tName": "VIPIN PRAKASH EKKA",
+    "tFatherName": "ATUL KUMAR EKKA ",
+    "tMotherName": "PARMESHWARI EKKA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392800",
+    "RegistrationNo": "VPM1429116",
+    "tRollNumber": "11010025",
+    "tName": "DINESH KUMAR",
+    "tFatherName": "TEK RAM ",
+    "tMotherName": "TILASO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005123800",
+    "RegistrationNo": "VPM0680716",
+    "tRollNumber": "11010026",
+    "tName": "DEVIWATI .",
+    "tFatherName": "BALLI SINGH",
+    "tMotherName": "BRIHASPATIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374800",
+    "RegistrationNo": "VPM0405778",
+    "tRollNumber": "11010027",
+    "tName": "SONKUNWAR UIKE",
+    "tFatherName": "LAGAN SINGH",
+    "tMotherName": "ANITA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005377800",
+    "RegistrationNo": "VPM0445627",
+    "tRollNumber": "11010028",
+    "tName": "MAIKAL EKKA",
+    "tFatherName": "KAMIL EKKA",
+    "tMotherName": "STRIYA EKKA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005048800",
+    "RegistrationNo": "VPM0363091",
+    "tRollNumber": "11010029",
+    "tName": "LALITA PAIKRA",
+    "tFatherName": "SUKUL RAM",
+    "tMotherName": "BEDMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005150900",
+    "RegistrationNo": "VPM1738341",
+    "tRollNumber": "11010030",
+    "tName": "SEEMA BHAGAT",
+    "tFatherName": "SHANKARKANT",
+    "tMotherName": "KIRANTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005180900",
+    "RegistrationNo": "VPM1336200",
+    "tRollNumber": "11010031",
+    "tName": "KHUSHBU BHAGAT",
+    "tFatherName": "MUNNA BHAGAT",
+    "tMotherName": "ROHNI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005041900",
+    "RegistrationNo": "VPM0203391",
+    "tRollNumber": "11010032",
+    "tName": "ALPHA",
+    "tFatherName": "RAMESH  SONWANI",
+    "tMotherName": "SANGITA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373900",
+    "RegistrationNo": "VPM0636810",
+    "tRollNumber": "11010033",
+    "tName": "KHUSHBU",
+    "tFatherName": "UMESH KUMAR",
+    "tMotherName": "SHAKTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005166900",
+    "RegistrationNo": "VPM1742241",
+    "tRollNumber": "11010034",
+    "tName": "SUNITA EKKA",
+    "tFatherName": "RUPAN EKKA",
+    "tMotherName": "RIMNI EKKA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005403010",
+    "RegistrationNo": "VPM0478079",
+    "tRollNumber": "11010035",
+    "tName": "MANMET",
+    "tFatherName": "SATYANARAYAN",
+    "tMotherName": "SHIVKUMARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005059010",
+    "RegistrationNo": "VPM1141575",
+    "tRollNumber": "11010036",
+    "tName": "PRAMENDRA SINGH",
+    "tFatherName": "BARNABAS SINGH ",
+    "tMotherName": "PRAMILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005331110",
+    "RegistrationNo": "VPM1786916",
+    "tRollNumber": "11010037",
+    "tName": "ASWNEE PURI",
+    "tFatherName": "CHANDRAPRAKASH",
+    "tMotherName": "KALAWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005407110",
+    "RegistrationNo": "VPM1802659",
+    "tRollNumber": "11010038",
+    "tName": "LILAWATI",
+    "tFatherName": "KALEE RAM",
+    "tMotherName": "SEWATEE",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005321210",
+    "RegistrationNo": "VPM0488491",
+    "tRollNumber": "11010039",
+    "tName": "POORNIMA",
+    "tFatherName": "RAVISHANKAR",
+    "tMotherName": "SURAJMANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005202210",
+    "RegistrationNo": "VPM0420797",
+    "tRollNumber": "11010040",
+    "tName": "SULOCHANA",
+    "tFatherName": "MESAR",
+    "tMotherName": "BUDHANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005234210",
+    "RegistrationNo": "VPM0896443",
+    "tRollNumber": "11010041",
+    "tName": "FILISITA BARA",
+    "tFatherName": "LOHRA BARA",
+    "tMotherName": "BIGNI BARA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395210",
+    "RegistrationNo": "VPM0877585",
+    "tRollNumber": "11010042",
+    "tName": "SUNITA KUMARI",
+    "tFatherName": "DHARMJEET ",
+    "tMotherName": "MAITEE BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005059210",
+    "RegistrationNo": "VPM0842993",
+    "tRollNumber": "11010043",
+    "tName": "VIJAY KUMAR",
+    "tFatherName": "GANGA RAM ",
+    "tMotherName": "DHOLI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005379210",
+    "RegistrationNo": "VPM1184941",
+    "tRollNumber": "11010044",
+    "tName": "RUBEN EKKA",
+    "tFatherName": "JOHAN EKKA",
+    "tMotherName": "JACINTA EKKA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005171310",
+    "RegistrationNo": "VPM0259632",
+    "tRollNumber": "11010045",
+    "tName": "KUMARI PRAMILA",
+    "tFatherName": "INDAR SAI",
+    "tMotherName": "DHABI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005391310",
+    "RegistrationNo": "VPM0818832",
+    "tRollNumber": "11010046",
+    "tName": "SURYA XESS",
+    "tFatherName": "KAILASH XESS",
+    "tMotherName": "RAIMUNI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005398310",
+    "RegistrationNo": "VPM1801408",
+    "tRollNumber": "11010047",
+    "tName": "RAKESH KUMAR",
+    "tFatherName": "AMAR SINGH ",
+    "tMotherName": "NAIHARO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005299310",
+    "RegistrationNo": "VPM1608068",
+    "tRollNumber": "11010048",
+    "tName": "SAVISTA",
+    "tFatherName": "SHIVA RAM KUJUR",
+    "tMotherName": "KALESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005314410",
+    "RegistrationNo": "VPM0179524",
+    "tRollNumber": "11010049",
+    "tName": "MALTI TIRKEY",
+    "tFatherName": "ISMAEL TIRKEY",
+    "tMotherName": "SAVITRI TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374410",
+    "RegistrationNo": "VPM1091561",
+    "tRollNumber": "11010050",
+    "tName": "RAJESH TIRKEY",
+    "tFatherName": "SUKHNU TIRKEY",
+    "tMotherName": "FULMANI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005295410",
+    "RegistrationNo": "VPM1780699",
+    "tRollNumber": "11010051",
+    "tName": "KAMLESH KUMAR YADAV",
+    "tFatherName": "CHHAIBAR PRASAD YADAV ",
+    "tMotherName": "RUPA DEVI YADAV",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005218410",
+    "RegistrationNo": "VPM0471780",
+    "tRollNumber": "11010052",
+    "tName": "KUMARI SANMAT BACK",
+    "tFatherName": "BUDHRAM BECK",
+    "tMotherName": "MANIYARO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005141510",
+    "RegistrationNo": "VPM1712081",
+    "tRollNumber": "11010053",
+    "tName": "URMILA BECK",
+    "tFatherName": "ASHA RAM BECK",
+    "tMotherName": "SHULKI BECK",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005073510",
+    "RegistrationNo": "VPM0053075",
+    "tRollNumber": "11010054",
+    "tName": "SARITA SINGH",
+    "tFatherName": "BAL MUKUND SINGH",
+    "tMotherName": "TARA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005225510",
+    "RegistrationNo": "VPM1760027",
+    "tRollNumber": "11010055",
+    "tName": "ARUN",
+    "tFatherName": "RATI RAM",
+    "tMotherName": "KAMALA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005200610",
+    "RegistrationNo": "VPM1452081",
+    "tRollNumber": "11010056",
+    "tName": "DEVID LAKRA",
+    "tFatherName": "DHANI LAKRA",
+    "tMotherName": "NAIEHARO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005280610",
+    "RegistrationNo": "VPM1778018",
+    "tRollNumber": "11010057",
+    "tName": "SANDHYA",
+    "tFatherName": "RAMLAKHAN",
+    "tMotherName": "PRAMILA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005221610",
+    "RegistrationNo": "VPM0232015",
+    "tRollNumber": "11010058",
+    "tName": "ASRITA BARA",
+    "tFatherName": "GUSTAP BARA",
+    "tMotherName": "BIRONIKA BARA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373610",
+    "RegistrationNo": "VPM1794755",
+    "tRollNumber": "11010059",
+    "tName": "REENA PAIKRA",
+    "tFatherName": "ARVIND PAIKRA ",
+    "tMotherName": "SANTOSHI PAIKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393610",
+    "RegistrationNo": "VPM0116006",
+    "tRollNumber": "11010060",
+    "tName": "Chanda khalkho",
+    "tFatherName": "RIFHULAL PANNA",
+    "tMotherName": "SONAMANI PANNA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392710",
+    "RegistrationNo": "VPM1800241",
+    "tRollNumber": "11010061",
+    "tName": "MANMOHAN SINGH",
+    "tFatherName": "RAMJEET SINGH",
+    "tMotherName": "LEELA DEVI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005104710",
+    "RegistrationNo": "VPM0546243",
+    "tRollNumber": "11010062",
+    "tName": "PRIYANKA",
+    "tFatherName": "GOVIND SINGH",
+    "tMotherName": "MANKUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374710",
+    "RegistrationNo": "VPM1783071",
+    "tRollNumber": "11010063",
+    "tName": "SARITA",
+    "tFatherName": "VEER SAI",
+    "tMotherName": "BUNDIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005107710",
+    "RegistrationNo": "VPM0748052",
+    "tRollNumber": "11010064",
+    "tName": "VISHAL SINGH",
+    "tFatherName": "SHIV KUMAR SINGH ",
+    "tMotherName": "BUDHANI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005267710",
+    "RegistrationNo": "VPM0681374",
+    "tRollNumber": "11010065",
+    "tName": "AARTI PRAJAPATI",
+    "tFatherName": "SONARAM PRAJAPATI",
+    "tMotherName": "SUKHMANIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005187710",
+    "RegistrationNo": "VPM0180542",
+    "tRollNumber": "11010066",
+    "tName": "JULITA LAKRA",
+    "tFatherName": "DEVNATH LAKRA",
+    "tMotherName": "HIRMANIYA LAKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005098710",
+    "RegistrationNo": "VPM0037626",
+    "tRollNumber": "11010067",
+    "tName": "RESHMI MINJ",
+    "tFatherName": "BARNABAS MINJ",
+    "tMotherName": "AGNESIA MINJ",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005115810",
+    "RegistrationNo": "VPM1728331",
+    "tRollNumber": "11010068",
+    "tName": "MANOJ SINGH",
+    "tFatherName": "HARBHAJAN SINGH",
+    "tMotherName": "TILKUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005380910",
+    "RegistrationNo": "VPM0471115",
+    "tRollNumber": "11010069",
+    "tName": "GULMANI BHAGAT",
+    "tFatherName": "DIDANG RAM",
+    "tMotherName": "BHAGWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005191910",
+    "RegistrationNo": "VPM0871510",
+    "tRollNumber": "11010070",
+    "tName": "PURNIMA",
+    "tFatherName": "BHAGWAN SINGH",
+    "tMotherName": "KAUSHILYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005084910",
+    "RegistrationNo": "VPM0360410",
+    "tRollNumber": "11010071",
+    "tName": "SANGEETA PAIKRA",
+    "tFatherName": "MOHAR SAI ",
+    "tMotherName": "SUKHANI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005287910",
+    "RegistrationNo": "VPM1297515",
+    "tRollNumber": "11010072",
+    "tName": "ARTI TOPPO",
+    "tFatherName": "BUTU RAM",
+    "tMotherName": "INDRAMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005301020",
+    "RegistrationNo": "VPM0637324",
+    "tRollNumber": "11010073",
+    "tName": "ARTI KOSARIYA",
+    "tFatherName": "PRADEEP KOSARIYA",
+    "tMotherName": "BINUMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005126020",
+    "RegistrationNo": "VPM0575016",
+    "tRollNumber": "11010074",
+    "tName": "YACHNA PAINKRA",
+    "tFatherName": "SHIVNANDAN SAI PAINKRA",
+    "tMotherName": "FRANSISKA PAINKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005136020",
+    "RegistrationNo": "VPM1231737",
+    "tRollNumber": "11010075",
+    "tName": "NEETIKA TIGGA",
+    "tFatherName": "JOLJAS TIGGA ",
+    "tMotherName": "RAEN TIGGA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005319020",
+    "RegistrationNo": "VPM1259506",
+    "tRollNumber": "11010076",
+    "tName": "SATTAR",
+    "tFatherName": "MOHAN RAM",
+    "tMotherName": "SHUKWARIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005399020",
+    "RegistrationNo": "VPM0745305",
+    "tRollNumber": "11010077",
+    "tName": "KAVITA",
+    "tFatherName": "KISHUN RAM",
+    "tMotherName": "SHOBHANTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005231120",
+    "RegistrationNo": "VPM0245656",
+    "tRollNumber": "11010078",
+    "tName": "ANJELA MINJ",
+    "tFatherName": "SON SAI",
+    "tMotherName": "MANIYARO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005412120",
+    "RegistrationNo": "VPM1803529",
+    "tRollNumber": "11010079",
+    "tName": "MANKUNWAR",
+    "tFatherName": "RAJKUMAR",
+    "tMotherName": "BHAGMAN",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005062120",
+    "RegistrationNo": "VPM1357252",
+    "tRollNumber": "11010080",
+    "tName": "ANIMA MINJ",
+    "tFatherName": "Bihari Lal ",
+    "tMotherName": "GULAR BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005082120",
+    "RegistrationNo": "VPM1263289",
+    "tRollNumber": "11010081",
+    "tName": "PIYUSH KUMAR TIWARI",
+    "tFatherName": "KAMLESH TIWARI ",
+    "tMotherName": "MANJU DEVI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005404120",
+    "RegistrationNo": "VPM0449052",
+    "tRollNumber": "11010082",
+    "tName": "AMAR SINGH",
+    "tFatherName": "RAM PRASAD ",
+    "tMotherName": "PHOOLBASIYA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005094120",
+    "RegistrationNo": "VPM1717231",
+    "tRollNumber": "11010083",
+    "tName": "AYUSH TIWARI",
+    "tFatherName": "RAJESH TIWARI ",
+    "tMotherName": "PREETI TIWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005052220",
+    "RegistrationNo": "VPM0345315",
+    "tRollNumber": "11010084",
+    "tName": "RAKHI MALA",
+    "tFatherName": "BHOLA RAM",
+    "tMotherName": "SUKHMANIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005403220",
+    "RegistrationNo": "VPM1194263",
+    "tRollNumber": "11010085",
+    "tName": "RAJKUMARI",
+    "tFatherName": "TELSAI RAM",
+    "tMotherName": "JAGNI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374220",
+    "RegistrationNo": "VPM1795425",
+    "tRollNumber": "11010086",
+    "tName": "ANIMA KUJUR",
+    "tFatherName": "ANAND KUJUR",
+    "tMotherName": "LALMANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394220",
+    "RegistrationNo": "VPM1247615",
+    "tRollNumber": "11010087",
+    "tName": "AJEET KUMAR",
+    "tFatherName": "JAYNATH",
+    "tMotherName": "SUNITA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005398220",
+    "RegistrationNo": "VPM0560898",
+    "tRollNumber": "11010088",
+    "tName": "SADHNA TIGGA",
+    "tFatherName": "JULIYUS TIGGA",
+    "tMotherName": "SUNAMI TIGGA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005409220",
+    "RegistrationNo": "VPM1802991",
+    "tRollNumber": "11010089",
+    "tName": "NIMKALI PORTE",
+    "tFatherName": "VIRENDRA KUMAR MAHANT",
+    "tMotherName": "SUNDARI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005400320",
+    "RegistrationNo": "VPM0171203",
+    "tRollNumber": "11010090",
+    "tName": "SWATI EKKA",
+    "tFatherName": "RAMDHANI EKKA",
+    "tMotherName": "SUSHILA EKKA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005310320",
+    "RegistrationNo": "VPM0300488",
+    "tRollNumber": "11010091",
+    "tName": "KARIMA PAINKRA",
+    "tFatherName": "TILU RAM PAINKRA",
+    "tMotherName": "NANKI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005151320",
+    "RegistrationNo": "VPM0749311",
+    "tRollNumber": "11010092",
+    "tName": "KHUSHBOO THAKUR",
+    "tFatherName": "GAURI SHANKAR THAKUR",
+    "tMotherName": "VINITA THAKUR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005391320",
+    "RegistrationNo": "VPM0829652",
+    "tRollNumber": "11010093",
+    "tName": "DILEEP TIRKEY",
+    "tFatherName": "BHUVAL RAM",
+    "tMotherName": "SUSHILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005144320",
+    "RegistrationNo": "VPM0293463",
+    "tRollNumber": "11010094",
+    "tName": "SAVITRI BAI",
+    "tFatherName": "GHURAN RAM",
+    "tMotherName": "SHANTI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395320",
+    "RegistrationNo": "VPM1800941",
+    "tRollNumber": "11010095",
+    "tName": "NEHA BHAGAT",
+    "tFatherName": "DASHRATH BHAGAT",
+    "tMotherName": "TILA BHAGAT",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005036320",
+    "RegistrationNo": "VPM0073505",
+    "tRollNumber": "11010096",
+    "tName": "AMAR SINGH CHAUHAN",
+    "tFatherName": "POORAN SINGH CHAUHAN ",
+    "tMotherName": "MAYA SINGH",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005098320",
+    "RegistrationNo": "VPM0796313",
+    "tRollNumber": "11010097",
+    "tName": "VINITA",
+    "tFatherName": "PRASAD PAINKRA",
+    "tMotherName": "BUDHIYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005399320",
+    "RegistrationNo": "VPM1801575",
+    "tRollNumber": "11010098",
+    "tName": "AAKASH",
+    "tFatherName": "KAILASH",
+    "tMotherName": "SUGHARI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005036420",
+    "RegistrationNo": "VPM0916771",
+    "tRollNumber": "11010099",
+    "tName": "TARAWATI PAINKARA",
+    "tFatherName": "RUDHAN SAI",
+    "tMotherName": "SUMITRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005114520",
+    "RegistrationNo": "VPM1727953",
+    "tRollNumber": "11010100",
+    "tName": "ARTI SINGH",
+    "tFatherName": "PRAN SAI",
+    "tMotherName": "KESHO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394520",
+    "RegistrationNo": "VPM0328569",
+    "tRollNumber": "11010101",
+    "tName": "CHANDANI SINGH",
+    "tFatherName": "ASHOK KUMAR SINGH",
+    "tMotherName": "HEMANTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005147520",
+    "RegistrationNo": "VPM0240922",
+    "tRollNumber": "11010102",
+    "tName": "GEETA",
+    "tFatherName": "SUMAR SAI",
+    "tMotherName": "CHANDA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005223620",
+    "RegistrationNo": "VPM0241254",
+    "tRollNumber": "11010103",
+    "tName": "BHANU PRATAP SEN",
+    "tFatherName": "KRISHNA KUMAR SEN",
+    "tMotherName": "KIRTAN SEN",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005393620",
+    "RegistrationNo": "VPM1800483",
+    "tRollNumber": "11010104",
+    "tName": "PAPPU RAM",
+    "tFatherName": "MOHAN RAM",
+    "tMotherName": "LAXMANIYA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005227620",
+    "RegistrationNo": "VPM0444088",
+    "tRollNumber": "11010105",
+    "tName": "SHUSHMA PAIKRA",
+    "tFatherName": "PARIKSHAN",
+    "tMotherName": "RUKMANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005397620",
+    "RegistrationNo": "VPM0428698",
+    "tRollNumber": "11010106",
+    "tName": "ANITA",
+    "tFatherName": "JANAKDHARI",
+    "tMotherName": "JAGPATIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005181720",
+    "RegistrationNo": "VPM1746787",
+    "tRollNumber": "11010107",
+    "tName": "RANI KUJUR",
+    "tFatherName": "VISHAL TOPPO",
+    "tMotherName": "SAVITRI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005252720",
+    "RegistrationNo": "VPM1768930",
+    "tRollNumber": "11010108",
+    "tName": "KAMLA SINGH",
+    "tFatherName": "PREM SINGH",
+    "tMotherName": "RATNI DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005203720",
+    "RegistrationNo": "VPM0396917",
+    "tRollNumber": "11010109",
+    "tName": "KALPANA SINGH",
+    "tFatherName": "BUDH RAM SINGH",
+    "tMotherName": "PANKUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395720",
+    "RegistrationNo": "VPM1801091",
+    "tRollNumber": "11010110",
+    "tName": "BHOLU VISHWAKARMA",
+    "tFatherName": "KAURU VISHWAKARMA",
+    "tMotherName": "SAJNI VISHWAKARMA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005087720",
+    "RegistrationNo": "VPM0867149",
+    "tRollNumber": "11010111",
+    "tName": "SARITA",
+    "tFatherName": "MANGAL SINGH",
+    "tMotherName": "SAMATIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005178720",
+    "RegistrationNo": "VPM0492269",
+    "tRollNumber": "11010112",
+    "tName": "ANUK SAI",
+    "tFatherName": "SANDHU RAM",
+    "tMotherName": "MUNIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005099720",
+    "RegistrationNo": "VPM0106846",
+    "tRollNumber": "11010113",
+    "tName": "SAVITRI PAINKRA",
+    "tFatherName": "GOVIND RAM PAINKRA",
+    "tMotherName": "RUKEE PAINKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005321820",
+    "RegistrationNo": "VPM1785321",
+    "tRollNumber": "11010114",
+    "tName": "SANTOSH LAKRA",
+    "tFatherName": "GHUNESHWAR LAKRA",
+    "tMotherName": "SUN KUWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005413820",
+    "RegistrationNo": "VPM0639088",
+    "tRollNumber": "11010115",
+    "tName": "AMIT KUMAR TOPPO",
+    "tFatherName": "JANGLI RAM",
+    "tMotherName": "FULASO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005311920",
+    "RegistrationNo": "VPM1023328",
+    "tRollNumber": "11010116",
+    "tName": "BINITA PAIKRA",
+    "tFatherName": "BAHUBAL ",
+    "tMotherName": "SANIYARO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005397920",
+    "RegistrationNo": "VPM1801354",
+    "tRollNumber": "11010117",
+    "tName": "GAYATRI YADAV",
+    "tFatherName": "RAM KRIPAL YADAV",
+    "tMotherName": "KOUSHLA YADAV",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005038920",
+    "RegistrationNo": "VPM0640135",
+    "tRollNumber": "11010118",
+    "tName": "PRAVESH KUMAR",
+    "tFatherName": "NAIN SINGH ",
+    "tMotherName": "SUNITA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005152030",
+    "RegistrationNo": "VPM1738676",
+    "tRollNumber": "11010119",
+    "tName": "ANJALINA KINDO",
+    "tFatherName": "BAHADOOR KINDO",
+    "tMotherName": "TARAMANI KINDO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005109030",
+    "RegistrationNo": "VPM0426339",
+    "tRollNumber": "11010120",
+    "tName": "NIRMALA URANV",
+    "tFatherName": "DHARAMSAI",
+    "tMotherName": "JHUJHU BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005073130",
+    "RegistrationNo": "VPM0113180",
+    "tRollNumber": "11010121",
+    "tName": "SANGEETA BAI",
+    "tFatherName": "DASHRATH RAM",
+    "tMotherName": "KUSMAIT BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394130",
+    "RegistrationNo": "VPM0624503",
+    "tRollNumber": "11010122",
+    "tName": "SARITA PANNA",
+    "tFatherName": "LOHRA PANNA",
+    "tMotherName": "RAJKUMARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005295130",
+    "RegistrationNo": "VPM1780720",
+    "tRollNumber": "11010123",
+    "tName": "VIVEK KASHYAP",
+    "tFatherName": "SANTOSH KASHYAP",
+    "tMotherName": "BISMATIYA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005287130",
+    "RegistrationNo": "VPM1779418",
+    "tRollNumber": "11010124",
+    "tName": "SARITA EKKA",
+    "tFatherName": "BITU KUJUR ",
+    "tMotherName": "SHANTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005408130",
+    "RegistrationNo": "VPM0615926",
+    "tRollNumber": "11010125",
+    "tName": "KHUSHBOO GUPTA",
+    "tFatherName": "RAJU PRASAD GUPTA",
+    "tMotherName": "LALITA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005271230",
+    "RegistrationNo": "VPM1755447",
+    "tRollNumber": "11010126",
+    "tName": "ANITA SINGH",
+    "tFatherName": "INDRAJEET SINGH ",
+    "tMotherName": "PANMESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005103230",
+    "RegistrationNo": "VPM0640071",
+    "tRollNumber": "11010127",
+    "tName": "SHILWANTI",
+    "tFatherName": "NANKA SINGH",
+    "tMotherName": "LALITA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005334230",
+    "RegistrationNo": "VPM1787310",
+    "tRollNumber": "11010128",
+    "tName": "SANDHYA",
+    "tFatherName": "RAMPRASAD",
+    "tMotherName": "RUPANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005344230",
+    "RegistrationNo": "VPM0000101",
+    "tRollNumber": "11010129",
+    "tName": "SURAJ KUMAR",
+    "tFatherName": "RAM MILAN",
+    "tMotherName": "CHAMPA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005394230",
+    "RegistrationNo": "VPM1800664",
+    "tRollNumber": "11010130",
+    "tName": "RESHMA TIRKEY",
+    "tFatherName": "KRISHNA TIRKEY",
+    "tMotherName": "REJINA TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373330",
+    "RegistrationNo": "VPM1216852",
+    "tRollNumber": "11010131",
+    "tName": "ANJU PAINKRA",
+    "tFatherName": "SHOBHAN SAI",
+    "tMotherName": "BIMLA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005117330",
+    "RegistrationNo": "VPM0423503",
+    "tRollNumber": "11010132",
+    "tName": "SMRITI KUJUR",
+    "tFatherName": "HILARIUS KUJUR",
+    "tMotherName": "SUSHILA KUJUR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005061430",
+    "RegistrationNo": "VPM1655819",
+    "tRollNumber": "11010133",
+    "tName": "PRAMOD KUMAR EKKA",
+    "tFatherName": "MADHO RAM ",
+    "tMotherName": "BASANTI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005314430",
+    "RegistrationNo": "VPM1784016",
+    "tRollNumber": "11010134",
+    "tName": "RITIKA PAIKRA",
+    "tFatherName": "GHANSHYAM PAIKRA",
+    "tMotherName": "SUNITA PAIKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005106430",
+    "RegistrationNo": "VPM1725599",
+    "tRollNumber": "11010135",
+    "tName": "AMIN",
+    "tFatherName": "SAJEEVAN ",
+    "tMotherName": "MOTIYARO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005037430",
+    "RegistrationNo": "VPM0805201",
+    "tRollNumber": "11010136",
+    "tName": "DEVANAND KINDO",
+    "tFatherName": "BALDEV PRASAD",
+    "tMotherName": "LAYACHI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005400530",
+    "RegistrationNo": "VPM1430046",
+    "tRollNumber": "11010137",
+    "tName": "SANTLAL",
+    "tFatherName": "GORELAL",
+    "tMotherName": "DEVMANIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005240530",
+    "RegistrationNo": "VPM0716375",
+    "tRollNumber": "11010138",
+    "tName": "NARESH KUMAR SINGH",
+    "tFatherName": "JAGAT LAL ",
+    "tMotherName": "SON KUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005301530",
+    "RegistrationNo": "VPM0962126",
+    "tRollNumber": "11010139",
+    "tName": "SUMITRA",
+    "tFatherName": "MOHAN SAI",
+    "tMotherName": "THAKURI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005412530",
+    "RegistrationNo": "VPM1762350",
+    "tRollNumber": "11010140",
+    "tName": "INDRA DEV SINGH",
+    "tFatherName": "TILESHWAR ",
+    "tMotherName": "MANMATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005120630",
+    "RegistrationNo": "VPM1187219",
+    "tRollNumber": "11010141",
+    "tName": "SANSKRITI BAI",
+    "tFatherName": "JHARI RAM BHAGAT",
+    "tMotherName": "CHANDRKALI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005406630",
+    "RegistrationNo": "VPM1802585",
+    "tRollNumber": "11010142",
+    "tName": "KULWANTI",
+    "tFatherName": "RAMCHANDRA SINGH",
+    "tMotherName": "SHIVMANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005386630",
+    "RegistrationNo": "VPM1798854",
+    "tRollNumber": "11010143",
+    "tName": "DILESHWAR BARA",
+    "tFatherName": "RAM BILAS BARA",
+    "tMotherName": "TILASO BARA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005373730",
+    "RegistrationNo": "VPM1794890",
+    "tRollNumber": "11010144",
+    "tName": "NARAYAN SINGH",
+    "tFatherName": "RAMESH SINGH",
+    "tMotherName": "NANKI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005394730",
+    "RegistrationNo": "VPM1800799",
+    "tRollNumber": "11010145",
+    "tName": "CHARITRI",
+    "tFatherName": "MAHAVIR",
+    "tMotherName": "SAHVIRI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005372830",
+    "RegistrationNo": "VPM0752004",
+    "tRollNumber": "11010146",
+    "tName": "VIKRANTI PANNA",
+    "tFatherName": "DEVNATH PANNA",
+    "tMotherName": "SARITA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005163830",
+    "RegistrationNo": "VPM0489950",
+    "tRollNumber": "11010147",
+    "tName": "RAMKUMARI",
+    "tFatherName": "JAGNARAYAN ",
+    "tMotherName": "FULBASIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005335830",
+    "RegistrationNo": "VPM1787568",
+    "tRollNumber": "11010148",
+    "tName": "PASKAL KHALKHO",
+    "tFatherName": "SIYARAM KHALKHO",
+    "tMotherName": "PARMILA KHALKHO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005397830",
+    "RegistrationNo": "VPM1801338",
+    "tRollNumber": "11010149",
+    "tName": "SUMITRA MINJ",
+    "tFatherName": "CHAMROO RAM",
+    "tMotherName": "FULMATI MINJ",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005209830",
+    "RegistrationNo": "VPM0993896",
+    "tRollNumber": "11010150",
+    "tName": "PRIYANKA",
+    "tFatherName": "LAXMAN",
+    "tMotherName": "SAFANTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005051930",
+    "RegistrationNo": "VPM0202161",
+    "tRollNumber": "11010151",
+    "tName": "ANJALI",
+    "tFatherName": "MARTIN ",
+    "tMotherName": "PRAMILA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392930",
+    "RegistrationNo": "VPM1277302",
+    "tRollNumber": "11010152",
+    "tName": "RUPANTI",
+    "tFatherName": "RAJNATH TIRKEY",
+    "tMotherName": "DEV KUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393930",
+    "RegistrationNo": "VPM0770937",
+    "tRollNumber": "11010153",
+    "tName": "MADHURI PAINKRA",
+    "tFatherName": "UMAKANT",
+    "tMotherName": "RAMILA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005104930",
+    "RegistrationNo": "VPM1594966",
+    "tRollNumber": "11010154",
+    "tName": "SUMIT KUMAR KASHYAP",
+    "tFatherName": "BRIJESH KUMAR KASHYAP",
+    "tMotherName": "SHEELA KASHYAP",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005033040",
+    "RegistrationNo": "VPM0137582",
+    "tRollNumber": "11010155",
+    "tName": "TILKESHWAR SINGH",
+    "tFatherName": "DIL BODHAN SINGH",
+    "tMotherName": "KAMLA DEVI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005267040",
+    "RegistrationNo": "VPM1773772",
+    "tRollNumber": "11010156",
+    "tName": "ANAR SINGH",
+    "tFatherName": "MANGAL SAI",
+    "tMotherName": "MANJU",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392140",
+    "RegistrationNo": "VPM0520391",
+    "tRollNumber": "11010157",
+    "tName": "ANIMA KUJUR",
+    "tFatherName": "DILBODHAN KUJUR",
+    "tMotherName": "RAMKUMARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005413140",
+    "RegistrationNo": "VPM0936756",
+    "tRollNumber": "11010158",
+    "tName": "PRAGYA TIRKEY",
+    "tFatherName": "TIMITHIUS TIRKEY",
+    "tMotherName": "MEBAL TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005064140",
+    "RegistrationNo": "VPM0108440",
+    "tRollNumber": "11010159",
+    "tName": "ANITA SINGH",
+    "tFatherName": "KARKETU",
+    "tMotherName": "BEERA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005375140",
+    "RegistrationNo": "VPM0147755",
+    "tRollNumber": "11010160",
+    "tName": "MIRANDA KERKETTA",
+    "tFatherName": "HEERALAL",
+    "tMotherName": "FABEENA KERKETTA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398140",
+    "RegistrationNo": "VPM0364713",
+    "tRollNumber": "11010161",
+    "tName": "SALMA TOPPO",
+    "tFatherName": "ADMON TOPPO",
+    "tMotherName": "LUSIA TOPPO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005291240",
+    "RegistrationNo": "VPM1780186",
+    "tRollNumber": "11010162",
+    "tName": "AMIT KUMAR BHAGAT",
+    "tFatherName": "SUWAN SAI",
+    "tMotherName": "PUNIYA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005034240",
+    "RegistrationNo": "VPM0512515",
+    "tRollNumber": "11010163",
+    "tName": "SATMATI",
+    "tFatherName": "DHARMPAL",
+    "tMotherName": "RAMLI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005144240",
+    "RegistrationNo": "VPM1398852",
+    "tRollNumber": "11010164",
+    "tName": "RAJ KUMARI",
+    "tFatherName": "SMEER SINGH PORTE",
+    "tMotherName": "FULMATI DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005076240",
+    "RegistrationNo": "VPM0301819",
+    "tRollNumber": "11010165",
+    "tName": "LEENA TIGGA",
+    "tFatherName": "BARNABAS TIGGA",
+    "tMotherName": "NEELMANI TIGGA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005390340",
+    "RegistrationNo": "VPM1456845",
+    "tRollNumber": "11010166",
+    "tName": "DEV PRASAD",
+    "tFatherName": "SHIVPAL",
+    "tMotherName": "SOMARO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005373340",
+    "RegistrationNo": "VPM0757991",
+    "tRollNumber": "11010167",
+    "tName": "MEGHA SINGH",
+    "tFatherName": "GAJRUP SINGH ",
+    "tMotherName": "INDRAMANI SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374340",
+    "RegistrationNo": "VPM1139206",
+    "tRollNumber": "11010168",
+    "tName": "GAGAN DEEP",
+    "tFatherName": "NAIHER SAI",
+    "tMotherName": "VIMLA YADAV",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005194340",
+    "RegistrationNo": "VPM1158981",
+    "tRollNumber": "11010169",
+    "tName": "ARJUN SINGH",
+    "tFatherName": "CHANDU",
+    "tMotherName": "SUKHBASO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005036340",
+    "RegistrationNo": "VPM0632768",
+    "tRollNumber": "11010170",
+    "tName": "ASHISH KUMAR KUSHWAHA",
+    "tFatherName": "RAM PRATAP KUSHWAHA",
+    "tMotherName": "SAVITRI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005387340",
+    "RegistrationNo": "VPM0480074",
+    "tRollNumber": "11010171",
+    "tName": "SAINKEE SINGH",
+    "tFatherName": "TULA RAM",
+    "tMotherName": "VIFAIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005387440",
+    "RegistrationNo": "VPM1382096",
+    "tRollNumber": "11010172",
+    "tName": "ANJU SINGH",
+    "tFatherName": "HEMANTH SINGH",
+    "tMotherName": "LAJIYA SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005058440",
+    "RegistrationNo": "VPM0130653",
+    "tRollNumber": "11010173",
+    "tName": "NEHRULAL RAM",
+    "tFatherName": "JASMAN RAM",
+    "tMotherName": "SURJO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005281540",
+    "RegistrationNo": "VPM0798554",
+    "tRollNumber": "11010174",
+    "tName": "POONAM SALEN TOPPO",
+    "tFatherName": "CHONHAS TOPPO",
+    "tMotherName": "BIMLAWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005292540",
+    "RegistrationNo": "VPM1133997",
+    "tRollNumber": "11010175",
+    "tName": "VIRENDRA KUMAR RAJWADE",
+    "tFatherName": "RAJKUMAR ",
+    "tMotherName": "URMILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005374540",
+    "RegistrationNo": "VPM1795752",
+    "tRollNumber": "11010176",
+    "tName": "SUSHILA SINGH",
+    "tFatherName": "SAGRAM SINGH",
+    "tMotherName": "PHULESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005149540",
+    "RegistrationNo": "VPM0629104",
+    "tRollNumber": "11010177",
+    "tName": "VINOD KUMAR",
+    "tFatherName": "MANNI LAL",
+    "tMotherName": "PHOOL KUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005131640",
+    "RegistrationNo": "VPM0148869",
+    "tRollNumber": "11010178",
+    "tName": "SWETA",
+    "tFatherName": "SHYAMVIHARI",
+    "tMotherName": "PANKUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005391640",
+    "RegistrationNo": "VPM1799992",
+    "tRollNumber": "11010179",
+    "tName": "RATAN KUMAR KUJOOR",
+    "tFatherName": "RAMSAY KUJOOR",
+    "tMotherName": "BALKUNWAR KUJOOR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005063640",
+    "RegistrationNo": "VPM1715341",
+    "tRollNumber": "11010180",
+    "tName": "PRAHLAD",
+    "tFatherName": "RAMMILAN",
+    "tMotherName": "NANBAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005295640",
+    "RegistrationNo": "VPM0793098",
+    "tRollNumber": "11010181",
+    "tName": "JAIMANI",
+    "tFatherName": "PARDHI RAM",
+    "tMotherName": "MALIO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395640",
+    "RegistrationNo": "VPM1800687",
+    "tRollNumber": "11010182",
+    "tName": "MANOJ EKKA",
+    "tFatherName": "NOHARSAI",
+    "tMotherName": "FULMATIA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005306640",
+    "RegistrationNo": "VPM1782813",
+    "tRollNumber": "11010183",
+    "tName": "SITA RAM",
+    "tFatherName": "RAMSAI",
+    "tMotherName": "INDRAKUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005067640",
+    "RegistrationNo": "VPM1471353",
+    "tRollNumber": "11010184",
+    "tName": "SOUMYA PAINKRA",
+    "tFatherName": "SRI BANNU SAI PAINKRA",
+    "tMotherName": "SMT PRAMILA PAINKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005411740",
+    "RegistrationNo": "VPM0895164",
+    "tRollNumber": "11010185",
+    "tName": "LALITA",
+    "tFatherName": "TEKRAM",
+    "tMotherName": "KAJAL",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005343740",
+    "RegistrationNo": "VPM0695746",
+    "tRollNumber": "11010186",
+    "tName": "SHRADHA XALXO",
+    "tFatherName": "JAMES XALXO",
+    "tMotherName": "KARMELA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005184740",
+    "RegistrationNo": "VPM0793070",
+    "tRollNumber": "11010187",
+    "tName": "CHAMELI BARVA",
+    "tFatherName": "DAYASHANKAR",
+    "tMotherName": "AGNI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005135740",
+    "RegistrationNo": "VPM0490892",
+    "tRollNumber": "11010188",
+    "tName": "NILIRANJNA MINJ",
+    "tFatherName": "BHUSHAN MINJ",
+    "tMotherName": "SIMFOROSA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005386740",
+    "RegistrationNo": "VPM0288308",
+    "tRollNumber": "11010189",
+    "tName": "MANISHA",
+    "tFatherName": "LALSAI",
+    "tMotherName": "ROPANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005317740",
+    "RegistrationNo": "VPM1784632",
+    "tRollNumber": "11010190",
+    "tName": "ARADHANA TIRKEY",
+    "tFatherName": "GABRIYAL TIRKEY",
+    "tMotherName": "MARIAM TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005177740",
+    "RegistrationNo": "VPM0625973",
+    "tRollNumber": "11010191",
+    "tName": "LALMUNI",
+    "tFatherName": "RAM BILAS",
+    "tMotherName": "FULBAS",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005181840",
+    "RegistrationNo": "VPM0969627",
+    "tRollNumber": "11010192",
+    "tName": "FULKUMARI",
+    "tFatherName": "JHARU RAM",
+    "tMotherName": "BITAKO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374840",
+    "RegistrationNo": "VPM1796094",
+    "tRollNumber": "11010193",
+    "tName": "MANISHA EKKA",
+    "tFatherName": "SEVAK RAM",
+    "tMotherName": "SAGOTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005082940",
+    "RegistrationNo": "VPM0322480",
+    "tRollNumber": "11010194",
+    "tName": "KHUSHBU",
+    "tFatherName": "PRATAP PAIKRA ",
+    "tMotherName": "SEEMA PAIKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373940",
+    "RegistrationNo": "VPM1056369",
+    "tRollNumber": "11010195",
+    "tName": "RAJ KUMAR SINGH",
+    "tFatherName": "MUNNA SINGH",
+    "tMotherName": "HIRA MANI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005389940",
+    "RegistrationNo": "VPM0520177",
+    "tRollNumber": "11010196",
+    "tName": "RAVINA BECK",
+    "tFatherName": "GIDDU BECK ",
+    "tMotherName": "RATIYO BECK",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398050",
+    "RegistrationNo": "VPM1801379",
+    "tRollNumber": "11010197",
+    "tName": "ANIL KUMAR",
+    "tFatherName": "JAG MOHAN",
+    "tMotherName": "SUKWARIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005309050",
+    "RegistrationNo": "VPM0206848",
+    "tRollNumber": "11010198",
+    "tName": "KARINA BAI",
+    "tFatherName": "VISWANATH RAM",
+    "tMotherName": "SUMITRA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005351150",
+    "RegistrationNo": "VPM1789887",
+    "tRollNumber": "11010199",
+    "tName": "BARAN KUMAR",
+    "tFatherName": "BAIJNATH ",
+    "tMotherName": "LILAWATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005376150",
+    "RegistrationNo": "VPM0552435",
+    "tRollNumber": "11010200",
+    "tName": "JULIYA",
+    "tFatherName": "RAJESH",
+    "tMotherName": "TIYASO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005107150",
+    "RegistrationNo": "VPM1725786",
+    "tRollNumber": "11010201",
+    "tName": "LEELAWATI",
+    "tFatherName": "DHAN SAI",
+    "tMotherName": "PHOOLWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398150",
+    "RegistrationNo": "VPM0578574",
+    "tRollNumber": "11010202",
+    "tName": "SULOCHANA KUJUR",
+    "tFatherName": "FANESHWAR",
+    "tMotherName": "PHOOLWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005061250",
+    "RegistrationNo": "VPM0301462",
+    "tRollNumber": "11010203",
+    "tName": "PRIYANTI SINGH",
+    "tFatherName": "AVADH PRATAP SINGH",
+    "tMotherName": "ANITA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005282250",
+    "RegistrationNo": "VPM0999224",
+    "tRollNumber": "11010204",
+    "tName": "BUDHIYARO",
+    "tFatherName": "DEEPANRAM",
+    "tMotherName": "SONMETIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005043250",
+    "RegistrationNo": "VPM1710869",
+    "tRollNumber": "11010205",
+    "tName": "SHIVKUMARI",
+    "tFatherName": "BAHADUR SINGH",
+    "tMotherName": "DHANSIRIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005385250",
+    "RegistrationNo": "VPM1326920",
+    "tRollNumber": "11010206",
+    "tName": "SANGEETA",
+    "tFatherName": "SANTOSH KUMAR SINGH ",
+    "tMotherName": "SAVITRI DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005066250",
+    "RegistrationNo": "VPM0493347",
+    "tRollNumber": "11010207",
+    "tName": "MEENA KUMARI XALXO",
+    "tFatherName": "MAUD MASIH",
+    "tMotherName": "ASHA MANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005173350",
+    "RegistrationNo": "VPM0730827",
+    "tRollNumber": "11010208",
+    "tName": "SUNITA MINJ",
+    "tFatherName": "FULSAI ",
+    "tMotherName": "NANIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005314350",
+    "RegistrationNo": "VPM1144760",
+    "tRollNumber": "11010209",
+    "tName": "SHOBHNATH",
+    "tFatherName": "ISHAMAL TIRKEY ",
+    "tMotherName": "SAVITRI TIRKEY",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005188350",
+    "RegistrationNo": "VPM1576762",
+    "tRollNumber": "11010210",
+    "tName": "SANIKA TIRKEY",
+    "tFatherName": "RAJNATH TIRKEY",
+    "tMotherName": "DHANSO TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005298350",
+    "RegistrationNo": "VPM0756504",
+    "tRollNumber": "11010211",
+    "tName": "ANITA",
+    "tFatherName": "BHAWAN SINGH",
+    "tMotherName": "DEVIWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005402450",
+    "RegistrationNo": "VPM1801630",
+    "tRollNumber": "11010212",
+    "tName": "URMILA TOPPO",
+    "tFatherName": "PARASNATH",
+    "tMotherName": "MANKUWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395450",
+    "RegistrationNo": "VPM1800994",
+    "tRollNumber": "11010213",
+    "tName": "JASVANT PAL SARTHEE",
+    "tFatherName": "RAJESH GOPAL SARTHEE",
+    "tMotherName": "FULKUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005404550",
+    "RegistrationNo": "VPM1802300",
+    "tRollNumber": "11010214",
+    "tName": "PRABHA BAI",
+    "tFatherName": "MUNESHWAR SAY",
+    "tMotherName": "JIVAN BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005299550",
+    "RegistrationNo": "VPM0345847",
+    "tRollNumber": "11010215",
+    "tName": "SULOCHANI",
+    "tFatherName": "RAM SINGH",
+    "tMotherName": "SON KUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005300650",
+    "RegistrationNo": "VPM1781865",
+    "tRollNumber": "11010216",
+    "tName": "PRAMILA TIRKEY",
+    "tFatherName": "PHILMON TIRKEY",
+    "tMotherName": "MAGRET TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005041650",
+    "RegistrationNo": "VPM1710551",
+    "tRollNumber": "11010217",
+    "tName": "AAKANKSHA",
+    "tFatherName": "KRISNA KUMAR",
+    "tMotherName": "SUKHMAN",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005052650",
+    "RegistrationNo": "VPM1713229",
+    "tRollNumber": "11010218",
+    "tName": "ANTONIS MINJ",
+    "tFatherName": "MANGLU MINJ",
+    "tMotherName": "PHULSIREE MINJ",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392650",
+    "RegistrationNo": "VPM0188424",
+    "tRollNumber": "11010219",
+    "tName": "RAJRANI",
+    "tFatherName": "NAYAN SHANKAR PURI",
+    "tMotherName": "BHAMA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005413650",
+    "RegistrationNo": "VPM0142783",
+    "tRollNumber": "11010220",
+    "tName": "MEENA TIRKEY",
+    "tFatherName": "JOLEDAN TIRKEY",
+    "tMotherName": "VEDMATI TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005293650",
+    "RegistrationNo": "VPM0965147",
+    "tRollNumber": "11010221",
+    "tName": "SUMITRA EKKA",
+    "tFatherName": "RAMVILI ",
+    "tMotherName": "SANKUNWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005125650",
+    "RegistrationNo": "VPM0384717",
+    "tRollNumber": "11010222",
+    "tName": "SUMAN",
+    "tFatherName": "RAJBAHADUR",
+    "tMotherName": "TETRI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005296650",
+    "RegistrationNo": "VPM1459513",
+    "tRollNumber": "11010223",
+    "tName": "SURENDRA KUMAR",
+    "tFatherName": "SAMPAT LAL",
+    "tMotherName": "ANITA SINGH",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005147650",
+    "RegistrationNo": "VPM1737355",
+    "tRollNumber": "11010224",
+    "tName": "RUPA HASDA",
+    "tFatherName": "BASANT HASDA",
+    "tMotherName": "CHAMPA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005410750",
+    "RegistrationNo": "VPM1351206",
+    "tRollNumber": "11010225",
+    "tName": "ASHMIN BECK",
+    "tFatherName": "BABULAL BECK",
+    "tMotherName": "SONAMATI BECK",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005282750",
+    "RegistrationNo": "VPM0318678",
+    "tRollNumber": "11010226",
+    "tName": "CHANDRA PRATAP SINGH",
+    "tFatherName": "CHHATRAPATI SINGH",
+    "tMotherName": "SUNDARI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392750",
+    "RegistrationNo": "VPM1800254",
+    "tRollNumber": "11010227",
+    "tName": "JAGMATIYA",
+    "tFatherName": "RAM SINGH",
+    "tMotherName": "BECHANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373750",
+    "RegistrationNo": "VPM1313822",
+    "tRollNumber": "11010228",
+    "tName": "SHIV KUMARI",
+    "tFatherName": "PEN SINGH",
+    "tMotherName": "DHANIYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005412850",
+    "RegistrationNo": "VPM1803645",
+    "tRollNumber": "11010229",
+    "tName": "HEMANT KUMAR",
+    "tFatherName": "ANJANI KUMAR",
+    "tMotherName": "URMILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005242850",
+    "RegistrationNo": "VPM0420717",
+    "tRollNumber": "11010230",
+    "tName": "SHOBHANTI LAKRA",
+    "tFatherName": "BECHAN LAKRA",
+    "tMotherName": "KATRINA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374850",
+    "RegistrationNo": "VPM0771725",
+    "tRollNumber": "11010231",
+    "tName": "SUSHMA SINGH",
+    "tFatherName": "RAMNATH SINGH",
+    "tMotherName": "RUGNI SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005384850",
+    "RegistrationNo": "VPM0863489",
+    "tRollNumber": "11010232",
+    "tName": "GEETIKA PAINKRA",
+    "tFatherName": "SUKHNATH PAINKRA ",
+    "tMotherName": "MAHESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005168850",
+    "RegistrationNo": "VPM0811028",
+    "tRollNumber": "11010233",
+    "tName": "NIKETAN MINJ",
+    "tFatherName": "AJAB NAIN MINJ",
+    "tMotherName": "DULAR MANI MINJ",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005110950",
+    "RegistrationNo": "VPM1726929",
+    "tRollNumber": "11010234",
+    "tName": "SUNITA",
+    "tFatherName": "MELA RAM",
+    "tMotherName": "SHYAM KUWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392950",
+    "RegistrationNo": "VPM1739299",
+    "tRollNumber": "11010235",
+    "tName": "MOHAN SINGH",
+    "tFatherName": "BUDHAI SINGH",
+    "tMotherName": "SUMITRA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005206950",
+    "RegistrationNo": "VPM1754029",
+    "tRollNumber": "11010236",
+    "tName": "NARENDRA KUMAR SINGH",
+    "tFatherName": "SUBHAN SINGH",
+    "tMotherName": "KALAVATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005409950",
+    "RegistrationNo": "VPM1803155",
+    "tRollNumber": "11010237",
+    "tName": "ARCHANA",
+    "tFatherName": "PEELA SAI",
+    "tMotherName": "PIYO SAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005079950",
+    "RegistrationNo": "VPM1672889",
+    "tRollNumber": "11010238",
+    "tName": "ARATI RAJWADE",
+    "tFatherName": "TILESHWAR PRASAD RAJWADE",
+    "tMotherName": "DAIYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005281060",
+    "RegistrationNo": "VPM1778124",
+    "tRollNumber": "11010239",
+    "tName": "NAVRANG SINGH",
+    "tFatherName": "BALCHAND",
+    "tMotherName": "BALKEE",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005393060",
+    "RegistrationNo": "VPM1353296",
+    "tRollNumber": "11010240",
+    "tName": "JEETNARAYAN",
+    "tFatherName": "    KAMESAR RAM",
+    "tMotherName": "SANJHO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005407060",
+    "RegistrationNo": "VPM0331240",
+    "tRollNumber": "11010241",
+    "tName": "SANJEET SINGH",
+    "tFatherName": "BALSAI",
+    "tMotherName": "MUNNI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005318060",
+    "RegistrationNo": "VPM1704336",
+    "tRollNumber": "11010242",
+    "tName": "PRIYANKA",
+    "tFatherName": "ASHOK SINGH",
+    "tMotherName": "MEENA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005381160",
+    "RegistrationNo": "VPM0984451",
+    "tRollNumber": "11010243",
+    "tName": "NIKKEE PAINKRA",
+    "tFatherName": "NIRANJAN SINGH",
+    "tMotherName": "GULABI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005057160",
+    "RegistrationNo": "VPM0393264",
+    "tRollNumber": "11010244",
+    "tName": "KALPATIYA",
+    "tFatherName": "JAYMANGAL",
+    "tMotherName": "RAJKUMARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005408160",
+    "RegistrationNo": "VPM1801130",
+    "tRollNumber": "11010245",
+    "tName": "ANITA",
+    "tFatherName": "DHARAM SAY",
+    "tMotherName": "MEENA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005318160",
+    "RegistrationNo": "VPM1282355",
+    "tRollNumber": "11010246",
+    "tName": "VIKASH TIGGA",
+    "tFatherName": "SHIV KUMAR TIGGA ",
+    "tMotherName": "RUMAITRI TIGGA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005401260",
+    "RegistrationNo": "VPM1491203",
+    "tRollNumber": "11010247",
+    "tName": "BIJESH EKKA",
+    "tFatherName": "VIKAS EKKA",
+    "tMotherName": "KIRANTI EKKA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005047260",
+    "RegistrationNo": "VPM0083231",
+    "tRollNumber": "11010248",
+    "tName": "SUSHILA BAI",
+    "tFatherName": "SHRINATH",
+    "tMotherName": "MAYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005038260",
+    "RegistrationNo": "VPM1217072",
+    "tRollNumber": "11010249",
+    "tName": "SANGEETA KHALKHO",
+    "tFatherName": "RAMJATAN TIRKEY",
+    "tMotherName": "SHANTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392360",
+    "RegistrationNo": "VPM1800138",
+    "tRollNumber": "11010250",
+    "tName": "SHIVAM GUPTA",
+    "tFatherName": "RISHI GUPTA",
+    "tMotherName": "SEETA DEVI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005126360",
+    "RegistrationNo": "VPM1410433",
+    "tRollNumber": "11010251",
+    "tName": "SABINA BARA",
+    "tFatherName": "PALAS RAM",
+    "tMotherName": "KAILASO BARA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005388360",
+    "RegistrationNo": "VPM0610359",
+    "tRollNumber": "11010252",
+    "tName": "KAREEMAN",
+    "tFatherName": "RAMDHAN",
+    "tMotherName": "FARHARO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005198360",
+    "RegistrationNo": "VPM1751245",
+    "tRollNumber": "11010253",
+    "tName": "DIL KUMARI",
+    "tFatherName": "BAUDHA RAM",
+    "tMotherName": "FAGUNI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398360",
+    "RegistrationNo": "VPM0704340",
+    "tRollNumber": "11010254",
+    "tName": "HEMKUMARI",
+    "tFatherName": "DALPAT",
+    "tMotherName": "HIRMUNIYAN",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005296460",
+    "RegistrationNo": "VPM0361448",
+    "tRollNumber": "11010255",
+    "tName": "PRAMILA PAINKRA",
+    "tFatherName": "UMESHWAR NATH SINGH",
+    "tMotherName": "VIMALPATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374560",
+    "RegistrationNo": "VPM1795765",
+    "tRollNumber": "11010256",
+    "tName": "GANGA RAM",
+    "tFatherName": "SADHARAN SINGH",
+    "tMotherName": "DIL KUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005146560",
+    "RegistrationNo": "VPM1737042",
+    "tRollNumber": "11010257",
+    "tName": "NIRANTI BAI",
+    "tFatherName": "SUKHSAY SAY",
+    "tMotherName": "DASRI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005040660",
+    "RegistrationNo": "VPM1672120",
+    "tRollNumber": "11010258",
+    "tName": "HARSH KUMAR KASHYAP",
+    "tFatherName": "RAJESH KASHYAP",
+    "tMotherName": "LAXMI KASHYAP",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005150660",
+    "RegistrationNo": "VPM0466357",
+    "tRollNumber": "11010259",
+    "tName": "SEYAMU",
+    "tFatherName": "MUNNA RAM",
+    "tMotherName": "SATILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005373660",
+    "RegistrationNo": "VPM0668248",
+    "tRollNumber": "11010260",
+    "tName": "SUKRITA KERKETTA",
+    "tFatherName": "KLABER KERKETTA ",
+    "tMotherName": "PUSHPA KERKETTA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393660",
+    "RegistrationNo": "VPM1800490",
+    "tRollNumber": "11010261",
+    "tName": "PRAFULYA PRATAP",
+    "tFatherName": "BEER SAY",
+    "tMotherName": "RAMESHWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005409660",
+    "RegistrationNo": "VPM0627778",
+    "tRollNumber": "11010262",
+    "tName": "KRISHNA KUMAR",
+    "tFatherName": "SINGSAI",
+    "tMotherName": "MEENA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005042760",
+    "RegistrationNo": "VPM0925447",
+    "tRollNumber": "11010263",
+    "tName": "SADHANA BHAGAT",
+    "tFatherName": "MAHESHWAR RAM",
+    "tMotherName": "LAXMANIYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005133760",
+    "RegistrationNo": "VPM0469242",
+    "tRollNumber": "11010264",
+    "tName": "SUMATI BAJ",
+    "tFatherName": "THAKUR RAM",
+    "tMotherName": "JAGARMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005295760",
+    "RegistrationNo": "VPM0254509",
+    "tRollNumber": "11010265",
+    "tName": "KRITIKA SINGH PAIKRA",
+    "tFatherName": "KAMAL SINGH",
+    "tMotherName": "SATILA SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005096760",
+    "RegistrationNo": "VPM0388597",
+    "tRollNumber": "11010266",
+    "tName": "SURENDRA PRATAP SINGH",
+    "tFatherName": "LALMAN SINGH",
+    "tMotherName": "SAMUNDRI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005112860",
+    "RegistrationNo": "VPM1184029",
+    "tRollNumber": "11010267",
+    "tName": "BINITA KUJUR",
+    "tFatherName": "PREMSAY",
+    "tMotherName": "ASMIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392860",
+    "RegistrationNo": "VPM1800286",
+    "tRollNumber": "11010268",
+    "tName": "HELARIYUS TIRKEY",
+    "tFatherName": "JITAN RAM",
+    "tMotherName": "KHORO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005393860",
+    "RegistrationNo": "VPM1800544",
+    "tRollNumber": "11010269",
+    "tName": "SUNIL",
+    "tFatherName": "DEVI PRASAD",
+    "tMotherName": "MANTI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005114860",
+    "RegistrationNo": "VPM0989291",
+    "tRollNumber": "11010270",
+    "tName": "SHOBHA",
+    "tFatherName": "MOHAR SAI",
+    "tMotherName": "BABLI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005034860",
+    "RegistrationNo": "VPM0939412",
+    "tRollNumber": "11010271",
+    "tName": "saroj",
+    "tFatherName": "ADALSAY",
+    "tMotherName": "INDRASO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374860",
+    "RegistrationNo": "VPM0620693",
+    "tRollNumber": "11010272",
+    "tName": "NEELAM TOPPO",
+    "tFatherName": "TARA RAM",
+    "tMotherName": "SUKHMATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005395860",
+    "RegistrationNo": "VPM1455368",
+    "tRollNumber": "11010273",
+    "tName": "SWETA",
+    "tFatherName": "BRIJESH",
+    "tMotherName": "AMARMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005341960",
+    "RegistrationNo": "VPM1229676",
+    "tRollNumber": "11010274",
+    "tName": "SUSHMITA TIRKEY",
+    "tFatherName": "HELARIUS TIRKEY",
+    "tMotherName": "SIBIRIA TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393960",
+    "RegistrationNo": "VPM0922889",
+    "tRollNumber": "11010275",
+    "tName": "SAJANTI",
+    "tFatherName": "DILSAY ",
+    "tMotherName": "MANKUWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005044960",
+    "RegistrationNo": "VPM1701489",
+    "tRollNumber": "11010276",
+    "tName": "BABITA SINGH",
+    "tFatherName": "RAJINDAR SINGH ",
+    "tMotherName": "NARMADA SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005105960",
+    "RegistrationNo": "VPM1316679",
+    "tRollNumber": "11010277",
+    "tName": "SANGEETA",
+    "tFatherName": "BASU DEV",
+    "tMotherName": "PARWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005265960",
+    "RegistrationNo": "VPM0184265",
+    "tRollNumber": "11010278",
+    "tName": "SONPYARI",
+    "tFatherName": "DHARTI PRASHAD",
+    "tMotherName": "RAMESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005399960",
+    "RegistrationNo": "VPM1801626",
+    "tRollNumber": "11010279",
+    "tName": "AKIL CHAND SINGH",
+    "tFatherName": "SUKH LAL SINGH",
+    "tMotherName": "RAMESHWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005393070",
+    "RegistrationNo": "VPM1516105",
+    "tRollNumber": "11010280",
+    "tName": "UMA SINGH",
+    "tFatherName": "KHARRE SINGH",
+    "tMotherName": "ANURADHA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005405070",
+    "RegistrationNo": "VPM1802314",
+    "tRollNumber": "11010281",
+    "tName": "SONAM KUJUR",
+    "tFatherName": "KALA RAM",
+    "tMotherName": "AASHA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005125070",
+    "RegistrationNo": "VPM1731098",
+    "tRollNumber": "11010282",
+    "tName": "VINITA XESS",
+    "tFatherName": "EMILYANUS XESS",
+    "tMotherName": "PAULINA XESS",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005095070",
+    "RegistrationNo": "VPM0526627",
+    "tRollNumber": "11010283",
+    "tName": "SHAKUNTALA",
+    "tFatherName": "SEETA SHARAN",
+    "tMotherName": "RUKMUN BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398070",
+    "RegistrationNo": "VPM1577605",
+    "tRollNumber": "11010284",
+    "tName": "MASAT RAM",
+    "tFatherName": "DAL SAI",
+    "tMotherName": "SAMUNDRI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005399070",
+    "RegistrationNo": "VPM1801524",
+    "tRollNumber": "11010285",
+    "tName": "HIRAMUNI",
+    "tFatherName": "RAMBRIKSH",
+    "tMotherName": "NANKUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374170",
+    "RegistrationNo": "VPM0521050",
+    "tRollNumber": "11010286",
+    "tName": "RAMPYARI",
+    "tFatherName": "SUKHSAI",
+    "tMotherName": "KUNTI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005326170",
+    "RegistrationNo": "VPM0730154",
+    "tRollNumber": "11010287",
+    "tName": "KU SANGEETA",
+    "tFatherName": "KRISHNA",
+    "tMotherName": "JANKI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005048170",
+    "RegistrationNo": "VPM0116862",
+    "tRollNumber": "11010288",
+    "tName": "PREMITA TIRKEY",
+    "tFatherName": "VIJAY RAM",
+    "tMotherName": "TARCILA TERKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005339170",
+    "RegistrationNo": "VPM1335336",
+    "tRollNumber": "11010289",
+    "tName": "ANAND KUMAR",
+    "tFatherName": "SHIV PRASAD ",
+    "tMotherName": "PREM KUWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005291270",
+    "RegistrationNo": "VPM1780192",
+    "tRollNumber": "11010290",
+    "tName": "SITA",
+    "tFatherName": "SURIT SINGH",
+    "tMotherName": "MANTI SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374270",
+    "RegistrationNo": "VPM1795462",
+    "tRollNumber": "11010291",
+    "tName": "PARSHOTAM SINGH",
+    "tFatherName": "DIGAMBAR SINGH",
+    "tMotherName": "RAM BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005398270",
+    "RegistrationNo": "VPM1801197",
+    "tRollNumber": "11010292",
+    "tName": "RAVISHANKAR EKKA",
+    "tFatherName": "RAJKUMAR EKKA ",
+    "tMotherName": "RAIMATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005309270",
+    "RegistrationNo": "VPM1783307",
+    "tRollNumber": "11010293",
+    "tName": "UMA BHARTI",
+    "tFatherName": "NARAYAN PRASAD",
+    "tMotherName": "PHULESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005292370",
+    "RegistrationNo": "VPM0716920",
+    "tRollNumber": "11010294",
+    "tName": "ANCHAL MAHANT",
+    "tFatherName": "PAL DAS",
+    "tMotherName": "PRATIBHA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005184370",
+    "RegistrationNo": "VPM1637829",
+    "tRollNumber": "11010295",
+    "tName": "SUMAN MARAVI",
+    "tFatherName": "GOPAL PRASAD",
+    "tMotherName": "URMILA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005036370",
+    "RegistrationNo": "VPM1276399",
+    "tRollNumber": "11010296",
+    "tName": "ANKIT KUJUR",
+    "tFatherName": "KORIUM KUJUR ",
+    "tMotherName": "SUSHEELA KUJUR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005289370",
+    "RegistrationNo": "VPM1779843",
+    "tRollNumber": "11010297",
+    "tName": "MANJULA",
+    "tFatherName": "SAMUEL ",
+    "tMotherName": "FLORA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005280470",
+    "RegistrationNo": "VPM0584258",
+    "tRollNumber": "11010298",
+    "tName": "SANJAY RAM MARAVI",
+    "tFatherName": "JAGESHWAR",
+    "tMotherName": "VIMLA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005402470",
+    "RegistrationNo": "VPM1801942",
+    "tRollNumber": "11010299",
+    "tName": "CHHOTU",
+    "tFatherName": "GOVIND RAM",
+    "tMotherName": "SHARMILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005395470",
+    "RegistrationNo": "VPM0818647",
+    "tRollNumber": "11010300",
+    "tName": "BINA SINGH",
+    "tFatherName": "SOMAR SAI",
+    "tMotherName": "RATIYARO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005319470",
+    "RegistrationNo": "VPM0975929",
+    "tRollNumber": "11010301",
+    "tName": "FIBA BACK",
+    "tFatherName": "DURGA PRASAD",
+    "tMotherName": "PHULESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005391570",
+    "RegistrationNo": "VPM0525093",
+    "tRollNumber": "11010302",
+    "tName": "GOVIND YADAV",
+    "tFatherName": "MANOHAR YADAV",
+    "tMotherName": "SONKELIYA YADAV",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005374570",
+    "RegistrationNo": "VPM1795769",
+    "tRollNumber": "11010303",
+    "tName": "SUDHAN RAM",
+    "tFatherName": "SHIVSHANKAR RAM",
+    "tMotherName": "SUMANTEE",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005066570",
+    "RegistrationNo": "VPM0163532",
+    "tRollNumber": "11010304",
+    "tName": "SANJANA SINGH",
+    "tFatherName": "NANDILAL SINGH",
+    "tMotherName": "PATANGO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005398570",
+    "RegistrationNo": "VPM1199422",
+    "tRollNumber": "11010305",
+    "tName": "SHRUTI BEK",
+    "tFatherName": "MAHESH BEK",
+    "tMotherName": "SUNITA BEK",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005252670",
+    "RegistrationNo": "VPM0266770",
+    "tRollNumber": "11010306",
+    "tName": "REEMA MINJ",
+    "tFatherName": "AJAY MINJ",
+    "tMotherName": "JOSILA MINJ",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005162670",
+    "RegistrationNo": "VPM0436694",
+    "tRollNumber": "11010307",
+    "tName": "SHIVKI TIGGA",
+    "tFatherName": "HERMAN TIGGA",
+    "tMotherName": "SWARNLATA TIGGA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005413670",
+    "RegistrationNo": "VPM1803800",
+    "tRollNumber": "11010308",
+    "tName": "PARVATI DEVI",
+    "tFatherName": "NANDAU SINGH",
+    "tMotherName": "SUDHIYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005390770",
+    "RegistrationNo": "VPM1384266",
+    "tRollNumber": "11010309",
+    "tName": "SANGEETA SINGH",
+    "tFatherName": "BHAJJAN SINGH ",
+    "tMotherName": "CHANDARMANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005331770",
+    "RegistrationNo": "VPM1786974",
+    "tRollNumber": "11010310",
+    "tName": "HEMLATA",
+    "tFatherName": "BASANT RAM",
+    "tMotherName": "SARASWATI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395770",
+    "RegistrationNo": "VPM1298193",
+    "tRollNumber": "11010311",
+    "tName": "SURAJLAL",
+    "tFatherName": "JAI SINGH",
+    "tMotherName": "BUDHIYARO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005408770",
+    "RegistrationNo": "VPM1170246",
+    "tRollNumber": "11010312",
+    "tName": "RAMESH KUMAR",
+    "tFatherName": "BED RAM",
+    "tMotherName": "SHRIMATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005389770",
+    "RegistrationNo": "VPM1786076",
+    "tRollNumber": "11010313",
+    "tName": "SAILESH",
+    "tFatherName": "ASAMLAL",
+    "tMotherName": "MUTO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005290870",
+    "RegistrationNo": "VPM1780118",
+    "tRollNumber": "11010314",
+    "tName": "HIRAMUNI",
+    "tFatherName": "JAGO RAM",
+    "tMotherName": "ANARKALI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005111870",
+    "RegistrationNo": "VPM0144034",
+    "tRollNumber": "11010315",
+    "tName": "ASHAMANI LAKRA",
+    "tFatherName": "FULSAI LAKRA",
+    "tMotherName": "JHARIYO LAKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005362870",
+    "RegistrationNo": "VPM1791731",
+    "tRollNumber": "11010316",
+    "tName": "SANJAY KUMAR",
+    "tFatherName": "GULAB SINGH ",
+    "tMotherName": "GEETA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392870",
+    "RegistrationNo": "VPM1800293",
+    "tRollNumber": "11010317",
+    "tName": "KHULESHWAR",
+    "tFatherName": "DEVSAI",
+    "tMotherName": "MOHNI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005373870",
+    "RegistrationNo": "VPM0222965",
+    "tRollNumber": "11010318",
+    "tName": "HEERA SINGH",
+    "tFatherName": "SHRI BARAN SINGH",
+    "tMotherName": "SMT LAXMANIYA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005315870",
+    "RegistrationNo": "VPM0774537",
+    "tRollNumber": "11010319",
+    "tName": "VINAY KUMAR EKKA",
+    "tFatherName": "ALAGSHIV EKKA",
+    "tMotherName": "VILASO EKKA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005390970",
+    "RegistrationNo": "VPM1799769",
+    "tRollNumber": "11010320",
+    "tName": "MANKUWAR",
+    "tFatherName": "VISHAL SINGH",
+    "tMotherName": "FULMET",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005125970",
+    "RegistrationNo": "VPM1010397",
+    "tRollNumber": "11010321",
+    "tName": "NEETU",
+    "tFatherName": "VISHNU KUMAR",
+    "tMotherName": "LILA VATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005387970",
+    "RegistrationNo": "VPM0425548",
+    "tRollNumber": "11010322",
+    "tName": "SELBESTAR TOPPO",
+    "tFatherName": "THUTHLU RAM",
+    "tMotherName": "TERESA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005170080",
+    "RegistrationNo": "VPM0280244",
+    "tRollNumber": "11010323",
+    "tName": "MEENA EKKA",
+    "tFatherName": "SUKUL",
+    "tMotherName": "PUTTY BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005081080",
+    "RegistrationNo": "VPM0310158",
+    "tRollNumber": "11010324",
+    "tName": "SHAILENDRA KUMAR PAIKRA",
+    "tFatherName": "MOTILAL PAIKRA",
+    "tMotherName": "SHRIMATI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005412080",
+    "RegistrationNo": "VPM0788061",
+    "tRollNumber": "11010325",
+    "tName": "BAL SINGH",
+    "tFatherName": "JANSAI",
+    "tMotherName": "MOHNI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005403080",
+    "RegistrationNo": "VPM1802123",
+    "tRollNumber": "11010326",
+    "tName": "SURAJ SINGH",
+    "tFatherName": "RAY SINGH",
+    "tMotherName": "RAJKUMARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005234080",
+    "RegistrationNo": "VPM0985094",
+    "tRollNumber": "11010327",
+    "tName": "Jivanti",
+    "tFatherName": "BABU LAL ",
+    "tMotherName": "BIFAIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005116080",
+    "RegistrationNo": "VPM0845304",
+    "tRollNumber": "11010328",
+    "tName": "MAHIMA EKKA",
+    "tFatherName": "JOSEPH EKKA ",
+    "tMotherName": "BERNADET EKKA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005074180",
+    "RegistrationNo": "VPM0872185",
+    "tRollNumber": "11010329",
+    "tName": "RAJKUMARI",
+    "tFatherName": "MANMOHAN SINGH",
+    "tMotherName": "NANO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374180",
+    "RegistrationNo": "VPM1795380",
+    "tRollNumber": "11010330",
+    "tName": "POONAM KERKETTA",
+    "tFatherName": "SATYANARAYAN KERKETTA",
+    "tMotherName": "RANI KERKETTA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005137180",
+    "RegistrationNo": "VPM1353675",
+    "tRollNumber": "11010331",
+    "tName": "ANTHRES TIGGA",
+    "tFatherName": "JAGDISH TIGGA",
+    "tMotherName": "MINI TIGGA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392280",
+    "RegistrationNo": "VPM1139782",
+    "tRollNumber": "11010332",
+    "tName": "BHAVNA THAKUR",
+    "tFatherName": "DAYAL RAM THAKUR",
+    "tMotherName": "PYARI THAKUR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374280",
+    "RegistrationNo": "VPM1271514",
+    "tRollNumber": "11010333",
+    "tName": "DIVYA SUMAN TOPPO",
+    "tFatherName": "JAYPRAKASH TOPPO",
+    "tMotherName": "ANIMA TOPPO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394280",
+    "RegistrationNo": "VPM1800677",
+    "tRollNumber": "11010334",
+    "tName": "RAJ KUMARI",
+    "tFatherName": "BECHAN SAI",
+    "tMotherName": "URMILA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005295280",
+    "RegistrationNo": "VPM1627482",
+    "tRollNumber": "11010335",
+    "tName": "SAPNA BHAGAT",
+    "tFatherName": "BASANT RAM",
+    "tMotherName": "FULMAIT",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005079280",
+    "RegistrationNo": "VPM0418407",
+    "tRollNumber": "11010336",
+    "tName": "BAIJANTI PAIKRA",
+    "tFatherName": "GUDDU",
+    "tMotherName": "SUGGI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005110380",
+    "RegistrationNo": "VPM1337183",
+    "tRollNumber": "11010337",
+    "tName": "STUTI EKKA",
+    "tFatherName": "NAIPAL LAKRA",
+    "tMotherName": "KARMI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395480",
+    "RegistrationNo": "VPM1379566",
+    "tRollNumber": "11010338",
+    "tName": "RAVIKUMAR",
+    "tFatherName": "KRISHNA",
+    "tMotherName": "MUNESHWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005400580",
+    "RegistrationNo": "VPM1801740",
+    "tRollNumber": "11010339",
+    "tName": "MATTU",
+    "tFatherName": "BAIJNATH",
+    "tMotherName": "FITALO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005234680",
+    "RegistrationNo": "VPM1764211",
+    "tRollNumber": "11010340",
+    "tName": "SHEELA",
+    "tFatherName": "RATAN SINGH",
+    "tMotherName": "BUDHIYARO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005135680",
+    "RegistrationNo": "VPM0783104",
+    "tRollNumber": "11010341",
+    "tName": "Manju Kerketta",
+    "tFatherName": "BOLO RAM",
+    "tMotherName": "SAHODRI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005056680",
+    "RegistrationNo": "VPM0334639",
+    "tRollNumber": "11010342",
+    "tName": "CHANDRAKESHWAR",
+    "tFatherName": "BASANT SINGH",
+    "tMotherName": "KAYASO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005048680",
+    "RegistrationNo": "VPM1712308",
+    "tRollNumber": "11010343",
+    "tName": "PRATIMA BAI",
+    "tFatherName": "DWARIKA RAM",
+    "tMotherName": "SUGANTI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005389680",
+    "RegistrationNo": "VPM1585180",
+    "tRollNumber": "11010344",
+    "tName": "DINESH BAIGA",
+    "tFatherName": "SAVAN BAIGA",
+    "tMotherName": "SUSHILA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005380780",
+    "RegistrationNo": "VPM1796916",
+    "tRollNumber": "11010345",
+    "tName": "SUKHRAJO YADAV",
+    "tFatherName": "DEV SAI",
+    "tMotherName": "JAGMEN",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395780",
+    "RegistrationNo": "VPM1801108",
+    "tRollNumber": "11010346",
+    "tName": "ANJANI TOPPO",
+    "tFatherName": "RAM JI",
+    "tMotherName": "BIRAJO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005296780",
+    "RegistrationNo": "VPM1781065",
+    "tRollNumber": "11010347",
+    "tName": "URMILA",
+    "tFatherName": "FAGUWA RAM",
+    "tMotherName": "MOHANI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005300880",
+    "RegistrationNo": "VPM1781891",
+    "tRollNumber": "11010348",
+    "tName": "SHIVKUMAR",
+    "tFatherName": "JAILAL",
+    "tMotherName": "KAILASHO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005219880",
+    "RegistrationNo": "VPM1758799",
+    "tRollNumber": "11010349",
+    "tName": "VIKRANT KUMAR RAVI",
+    "tFatherName": "RADHESHYAM",
+    "tMotherName": "SANGEETA DEVI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005379880",
+    "RegistrationNo": "VPM0291113",
+    "tRollNumber": "11010350",
+    "tName": "DEVANTI",
+    "tFatherName": "SHIV CHARAN SINGH",
+    "tMotherName": "JAYMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005389880",
+    "RegistrationNo": "VPM0626952",
+    "tRollNumber": "11010351",
+    "tName": "RAJA TIGGA",
+    "tFatherName": "MAHAJAN TIGGA",
+    "tMotherName": "NARPATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005032980",
+    "RegistrationNo": "VPM0299905",
+    "tRollNumber": "11010352",
+    "tName": "PARWATI",
+    "tFatherName": "LAL SAI SINGH",
+    "tMotherName": "JAGAT KUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005113980",
+    "RegistrationNo": "VPM0242284",
+    "tRollNumber": "11010353",
+    "tName": "DIVYA BHARTI",
+    "tFatherName": "ASRAM SINGH",
+    "tMotherName": "INDRAKUNWAR",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373980",
+    "RegistrationNo": "VPM1383555",
+    "tRollNumber": "11010354",
+    "tName": "KALAVATI RAJWADE",
+    "tFatherName": "ISHWAR PRASAD RAJWADE",
+    "tMotherName": "DUEJI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393980",
+    "RegistrationNo": "VPM1800538",
+    "tRollNumber": "11010355",
+    "tName": "RAKESH SINGH",
+    "tFatherName": "SOHAR LAL SINGH",
+    "tMotherName": "JAHORAN SINGH",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005047980",
+    "RegistrationNo": "VPM1165868",
+    "tRollNumber": "11010356",
+    "tName": "ANITA",
+    "tFatherName": "DHARMA PAL",
+    "tMotherName": "RAM BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005061090",
+    "RegistrationNo": "VPM0160121",
+    "tRollNumber": "11010357",
+    "tName": "ANKIT KUMAR",
+    "tFatherName": "HARDAYAL SONWANI",
+    "tMotherName": "LEELAWATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005179090",
+    "RegistrationNo": "VPM1310881",
+    "tRollNumber": "11010358",
+    "tName": "LAXMI",
+    "tFatherName": "AMER NATH",
+    "tMotherName": "KUMARO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005321190",
+    "RegistrationNo": "VPM1021487",
+    "tRollNumber": "11010359",
+    "tName": "BABITA YADAV",
+    "tFatherName": "DEVANAND YADAV ",
+    "tMotherName": "PADMAVATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005033190",
+    "RegistrationNo": "VPM1232056",
+    "tRollNumber": "11010360",
+    "tName": "SAMEER KUJUR",
+    "tFatherName": "BABU LAL KUJUR ",
+    "tMotherName": "URMILA KUJUR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005363190",
+    "RegistrationNo": "VPM1255348",
+    "tRollNumber": "11010361",
+    "tName": "SOURABH VISHWAKARMA",
+    "tFatherName": "RAJESH KUMAR VISHWAKARMA",
+    "tMotherName": "ARCHANA VISHWAKARMA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005115190",
+    "RegistrationNo": "VPM0752945",
+    "tRollNumber": "11010362",
+    "tName": "ANIL KUMAR BARWA",
+    "tFatherName": "HIRALAL BARWA",
+    "tMotherName": "DHANESHWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005085190",
+    "RegistrationNo": "VPM0320556",
+    "tRollNumber": "11010363",
+    "tName": "MEENA PAINKRA",
+    "tFatherName": "MAN SAI",
+    "tMotherName": "KUNTI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005206190",
+    "RegistrationNo": "VPM1282093",
+    "tRollNumber": "11010364",
+    "tName": "URSELA TIRKEY",
+    "tFatherName": "SOMARU RAM",
+    "tMotherName": "SONMATIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005276190",
+    "RegistrationNo": "VPM1776492",
+    "tRollNumber": "11010365",
+    "tName": "NAMITA",
+    "tFatherName": "ARUN KUMAR KUJUR",
+    "tMotherName": "SONMTIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005376190",
+    "RegistrationNo": "VPM0165267",
+    "tRollNumber": "11010366",
+    "tName": "ARTI TIRKEY",
+    "tFatherName": "LEBNUS TIRKEY",
+    "tMotherName": "JULIA TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373290",
+    "RegistrationNo": "VPM1793709",
+    "tRollNumber": "11010367",
+    "tName": "MEMA DAS",
+    "tFatherName": "SHYAM DAS",
+    "tMotherName": "MALA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005209290",
+    "RegistrationNo": "VPM0490029",
+    "tRollNumber": "11010368",
+    "tName": "MILA BAI PAIKRA",
+    "tFatherName": "BILTU PAIKRA",
+    "tMotherName": "MULARO PAIKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005413390",
+    "RegistrationNo": "VPM1803729",
+    "tRollNumber": "11010369",
+    "tName": "ANUPAMA MINJ",
+    "tFatherName": "LAWRENS MINJ",
+    "tMotherName": "VICTORIA MINJ",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005035390",
+    "RegistrationNo": "VPM0014523",
+    "tRollNumber": "11010370",
+    "tName": "JAIPAL EKKA",
+    "tFatherName": "AMRIT RAM",
+    "tMotherName": "GENDO BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005406390",
+    "RegistrationNo": "VPM1802569",
+    "tRollNumber": "11010371",
+    "tName": "SANJAY KUMAR",
+    "tFatherName": "MAHTO RAM",
+    "tMotherName": "BALKUNWARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005309390",
+    "RegistrationNo": "VPM1783324",
+    "tRollNumber": "11010372",
+    "tName": "NIKETA EKKA",
+    "tFatherName": "DILEEP EKKA ",
+    "tMotherName": "POKO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005409390",
+    "RegistrationNo": "VPM0231583",
+    "tRollNumber": "11010373",
+    "tName": "MANSI TOPPO",
+    "tFatherName": "PRADEEP TOPPO",
+    "tMotherName": "SWANTI TOPPO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005370490",
+    "RegistrationNo": "VPM0336750",
+    "tRollNumber": "11010374",
+    "tName": "AMRITA BAKHLA",
+    "tFatherName": "NAKUL BAKHLA",
+    "tMotherName": "PATAREESIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005261490",
+    "RegistrationNo": "VPM0216844",
+    "tRollNumber": "11010375",
+    "tName": "KALAWATI",
+    "tFatherName": "SHYAM LAL ",
+    "tMotherName": "HIRONDIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005292490",
+    "RegistrationNo": "VPM0689019",
+    "tRollNumber": "11010376",
+    "tName": "SUNITA DAS",
+    "tFatherName": "GEDA RAM DAS",
+    "tMotherName": "PARO DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005253490",
+    "RegistrationNo": "VPM0407420",
+    "tRollNumber": "11010377",
+    "tName": "PRIYANKA TOPPO",
+    "tFatherName": "MOHANLAL TOPPO",
+    "tMotherName": "SUSHMA TOPPO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373490",
+    "RegistrationNo": "VPM1794574",
+    "tRollNumber": "11010378",
+    "tName": "BIRENDRA KUMAR",
+    "tFatherName": "HARBHAJAN",
+    "tMotherName": "RUPVATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005139490",
+    "RegistrationNo": "VPM1506976",
+    "tRollNumber": "11010379",
+    "tName": "SHASHIKANTA TOPPO",
+    "tFatherName": "SUNIL TOPPO",
+    "tMotherName": "PREMSHILA TOPPO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005150590",
+    "RegistrationNo": "VPM0888863",
+    "tRollNumber": "11010380",
+    "tName": "KHIRO YADAV",
+    "tFatherName": "JAINARAYAN YADAV",
+    "tMotherName": "BADMATI YADAV",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005060590",
+    "RegistrationNo": "VPM0100059",
+    "tRollNumber": "11010381",
+    "tName": "MANISH MINJ",
+    "tFatherName": "CHATURVEDI MINJ",
+    "tMotherName": "SHANTI MINJ",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005374590",
+    "RegistrationNo": "VPM1678497",
+    "tRollNumber": "11010382",
+    "tName": "NIRAJ KUMAR",
+    "tFatherName": "RAMADHAR",
+    "tMotherName": "BUTTI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005326590",
+    "RegistrationNo": "VPM0197224",
+    "tRollNumber": "11010383",
+    "tName": "KALAWATI",
+    "tFatherName": "LALCHAND",
+    "tMotherName": "RAM BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005139590",
+    "RegistrationNo": "VPM1734883",
+    "tRollNumber": "11010384",
+    "tName": "GAYATRI BAI",
+    "tFatherName": "KAMALSAI RAM",
+    "tMotherName": "KAMLA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005382690",
+    "RegistrationNo": "VPM1792017",
+    "tRollNumber": "11010385",
+    "tName": "PREM KUMARI",
+    "tFatherName": "AMAR NATH",
+    "tMotherName": "SUDHANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374690",
+    "RegistrationNo": "VPM1795911",
+    "tRollNumber": "11010386",
+    "tName": "MANVEL MINJ",
+    "tFatherName": "MOHAR LAL",
+    "tMotherName": "DILBASIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005391790",
+    "RegistrationNo": "VPM1449856",
+    "tRollNumber": "11010387",
+    "tName": "VIJAY PRAKASH BECK",
+    "tFatherName": "SURAJ BECK",
+    "tMotherName": "FULMANTRI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005393790",
+    "RegistrationNo": "VPM1800524",
+    "tRollNumber": "11010388",
+    "tName": "PURNESHWAR RAM",
+    "tFatherName": "MAHABEER",
+    "tMotherName": "GOYANDI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005374790",
+    "RegistrationNo": "VPM0416723",
+    "tRollNumber": "11010389",
+    "tName": "SAMTA",
+    "tFatherName": "MOHAN SINGH ",
+    "tMotherName": "PAVITRA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392890",
+    "RegistrationNo": "VPM1800172",
+    "tRollNumber": "11010390",
+    "tName": "KALPNA SAHU",
+    "tFatherName": "VISHNU SAHU",
+    "tMotherName": "HEMANTI SAHU",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005344890",
+    "RegistrationNo": "VPM0914707",
+    "tRollNumber": "11010391",
+    "tName": "HIRAMATI",
+    "tFatherName": "UDAY RAM",
+    "tMotherName": "PARSADO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005305890",
+    "RegistrationNo": "VPM1782706",
+    "tRollNumber": "11010392",
+    "tName": "RAM BILAS SINGH",
+    "tFatherName": "KALYAN SINGH",
+    "tMotherName": "SONAMATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005397890",
+    "RegistrationNo": "VPM0900912",
+    "tRollNumber": "11010393",
+    "tName": "PRAMILA SINGH",
+    "tFatherName": "BUDHLAL SINGH",
+    "tMotherName": "GANGAWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395990",
+    "RegistrationNo": "VPM1801183",
+    "tRollNumber": "11010394",
+    "tName": "BHARAT SINGH MARKO",
+    "tFatherName": "TULSI PRASAD",
+    "tMotherName": "PUNI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005056990",
+    "RegistrationNo": "VPM0226501",
+    "tRollNumber": "11010395",
+    "tName": "TARAMUNI",
+    "tFatherName": "LACHHAN ",
+    "tMotherName": "KARLO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005307990",
+    "RegistrationNo": "VPM1783061",
+    "tRollNumber": "11010396",
+    "tName": "PUSHPA KIRAN TOPPO",
+    "tFatherName": "JAMS TOPPO",
+    "tMotherName": "MUNIKA MINJ",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005390001",
+    "RegistrationNo": "VPM1762089",
+    "tRollNumber": "11010397",
+    "tName": "ANNU KUJUR",
+    "tFatherName": "MUNNILAL",
+    "tMotherName": "RANGO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005233001",
+    "RegistrationNo": "VPM1659370",
+    "tRollNumber": "11010398",
+    "tName": "SHIV MANGALI",
+    "tFatherName": "DHARAM SAI",
+    "tMotherName": "SUMARIYA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005390101",
+    "RegistrationNo": "VPM1799637",
+    "tRollNumber": "11010399",
+    "tName": "KAMESH PAIKRA",
+    "tFatherName": "DINESH PAIKRA ",
+    "tMotherName": "KUSUM PAIKRA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005374101",
+    "RegistrationNo": "VPM1465058",
+    "tRollNumber": "11010400",
+    "tName": "DILEEP SINGH",
+    "tFatherName": "BABURAM SINGH",
+    "tMotherName": "AGASIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005290201",
+    "RegistrationNo": "VPM1779979",
+    "tRollNumber": "11010401",
+    "tName": "KUNWAR SAI",
+    "tFatherName": "BITLU RAM",
+    "tMotherName": "KARMI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005071201",
+    "RegistrationNo": "VPM1316216",
+    "tRollNumber": "11010402",
+    "tName": "MONIKA singh",
+    "tFatherName": "SAJJAN RAM",
+    "tMotherName": "UMESHWARI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005412201",
+    "RegistrationNo": "VPM0815066",
+    "tRollNumber": "11010403",
+    "tName": "FULKUNWER",
+    "tFatherName": "DILCHAND",
+    "tMotherName": "CHAMELI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005052201",
+    "RegistrationNo": "VPM1293939",
+    "tRollNumber": "11010404",
+    "tName": "JYOSHISH KUMAR",
+    "tFatherName": "ISHWAR RAM",
+    "tMotherName": "SAROJNI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005393201",
+    "RegistrationNo": "VPM1800391",
+    "tRollNumber": "11010405",
+    "tName": "JEETENDRA SINGH",
+    "tFatherName": "AMRIT LAL ",
+    "tMotherName": "NANDKESHARI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005373401",
+    "RegistrationNo": "VPM0225953",
+    "tRollNumber": "11010406",
+    "tName": "ANUPAM DUBEY",
+    "tFatherName": "SUBHASH DUBEY",
+    "tMotherName": "SATYAPURNIMA DUBEY",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005402501",
+    "RegistrationNo": "VPM1802015",
+    "tRollNumber": "11010407",
+    "tName": "RAHUL KUMAR",
+    "tFatherName": "JAWAHIR LAL",
+    "tMotherName": "KUSUM BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005380601",
+    "RegistrationNo": "VPM1796940",
+    "tRollNumber": "11010408",
+    "tName": "TULSI",
+    "tFatherName": "ASHOK KUMAR",
+    "tMotherName": "GEETA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005321601",
+    "RegistrationNo": "VPM1298206",
+    "tRollNumber": "11010409",
+    "tName": "URMILA PAIKRA",
+    "tFatherName": "GYANCHAND PAIKRA",
+    "tMotherName": "SUBAL BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005074601",
+    "RegistrationNo": "VPM0077275",
+    "tRollNumber": "11010410",
+    "tName": "ANKITA BAXLA",
+    "tFatherName": "TELESPHOR BAXLA",
+    "tMotherName": "HELENA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394601",
+    "RegistrationNo": "VPM1800751",
+    "tRollNumber": "11010411",
+    "tName": "USHA LAKRA",
+    "tFatherName": "BABAN LAKRA",
+    "tMotherName": "CHARKO DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005405701",
+    "RegistrationNo": "VPM1802494",
+    "tRollNumber": "11010412",
+    "tName": "MANISHA TIRKEY",
+    "tFatherName": "ANJIT",
+    "tMotherName": "NIRMALA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005147701",
+    "RegistrationNo": "VPM0955823",
+    "tRollNumber": "11010413",
+    "tName": "REENA EKKA",
+    "tFatherName": "SONSAY EKKA",
+    "tMotherName": "REELO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005387701",
+    "RegistrationNo": "VPM1798925",
+    "tRollNumber": "11010414",
+    "tName": "HIRAMANI",
+    "tFatherName": "VIFAL SINGH ",
+    "tMotherName": "INDRASO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005319701",
+    "RegistrationNo": "VPM1375377",
+    "tRollNumber": "11010415",
+    "tName": "SWETA BHAGAT",
+    "tFatherName": "SURESH PRATAP",
+    "tMotherName": "LALMUNI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005392801",
+    "RegistrationNo": "VPM1470847",
+    "tRollNumber": "11010416",
+    "tName": "RAJA RAM",
+    "tFatherName": "SHIV PRASAD",
+    "tMotherName": "RAM BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005378801",
+    "RegistrationNo": "VPM0469553",
+    "tRollNumber": "11010417",
+    "tName": "MAHESHWARI SINGH",
+    "tFatherName": "KAILASH PRATAP SINGH",
+    "tMotherName": "CHANDRAMANI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005219801",
+    "RegistrationNo": "VPM1302263",
+    "tRollNumber": "11010418",
+    "tName": "ANCHAL BHAGAT",
+    "tFatherName": "KRISHNA BHAGAT",
+    "tMotherName": "SUSHILA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005373901",
+    "RegistrationNo": "VPM1442305",
+    "tRollNumber": "11010419",
+    "tName": "SURYA PRAKASH TIRKEY",
+    "tFatherName": "THEENA TIRKEY",
+    "tMotherName": "MAYA TIRKEY",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005039901",
+    "RegistrationNo": "VPM0473124",
+    "tRollNumber": "11010420",
+    "tName": "JAGESHWARI",
+    "tFatherName": "SAHADEV",
+    "tMotherName": "KUNTI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005389901",
+    "RegistrationNo": "VPM1798796",
+    "tRollNumber": "11010421",
+    "tName": "MUSKAN",
+    "tFatherName": "SONI NAYAK",
+    "tMotherName": "SHYAMO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005094011",
+    "RegistrationNo": "VPM0340743",
+    "tRollNumber": "11010422",
+    "tName": "ANSHUMALA MINJ",
+    "tFatherName": "HERMON MINJ",
+    "tMotherName": "PHRISCA MINJ",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005110111",
+    "RegistrationNo": "VPM0366656",
+    "tRollNumber": "11010423",
+    "tName": "SUNIL KUMAR",
+    "tFatherName": "VEDANTI PRASAD",
+    "tMotherName": "HEERAMATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005390111",
+    "RegistrationNo": "VPM1399683",
+    "tRollNumber": "11010424",
+    "tName": "JAIWATI",
+    "tFatherName": "MUNNA SINGH",
+    "tMotherName": "KITABEE",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005063111",
+    "RegistrationNo": "VPM0420270",
+    "tRollNumber": "11010425",
+    "tName": "NAHAR SINGH",
+    "tFatherName": "MOHAN SINGH",
+    "tMotherName": "MUNNI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005234111",
+    "RegistrationNo": "VPM0305403",
+    "tRollNumber": "11010426",
+    "tName": "MANITA",
+    "tFatherName": "SUKHNATH",
+    "tMotherName": "PATIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005327111",
+    "RegistrationNo": "VPM1263581",
+    "tRollNumber": "11010427",
+    "tName": "SHIV SHANKAR SINGH",
+    "tFatherName": "DHANPHER",
+    "tMotherName": "MEERABHAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005297111",
+    "RegistrationNo": "VPM1303915",
+    "tRollNumber": "11010428",
+    "tName": "DEVENDRA KUMAR",
+    "tFatherName": "RAGHU VANSH SINGH",
+    "tMotherName": "MANKUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005220211",
+    "RegistrationNo": "VPM0183035",
+    "tRollNumber": "11010429",
+    "tName": "ARVIND KUMAR YADAV",
+    "tFatherName": "SUKHNANDAN YADAV",
+    "tMotherName": "DHANMET",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005381211",
+    "RegistrationNo": "VPM1797066",
+    "tRollNumber": "11010430",
+    "tName": "PARWATI",
+    "tFatherName": "BALRAJ",
+    "tMotherName": "KAUSHILYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005263211",
+    "RegistrationNo": "VPM1772485",
+    "tRollNumber": "11010431",
+    "tName": "KAUSHAL",
+    "tFatherName": "PRADIP ",
+    "tMotherName": "KAILASO",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005176211",
+    "RegistrationNo": "VPM0259426",
+    "tRollNumber": "11010432",
+    "tName": "SHANTI",
+    "tFatherName": "BABULAL",
+    "tMotherName": "LEELABAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394311",
+    "RegistrationNo": "VPM1800684",
+    "tRollNumber": "11010433",
+    "tName": "RAKVIR",
+    "tFatherName": "GHURAN RAM",
+    "tMotherName": "BABI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005325311",
+    "RegistrationNo": "VPM0939288",
+    "tRollNumber": "11010434",
+    "tName": "JASMANI BECK",
+    "tFatherName": "RAVISH BHAGAT",
+    "tMotherName": "FULESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005051411",
+    "RegistrationNo": "VPM0695310",
+    "tRollNumber": "11010435",
+    "tName": "MANBASIYA",
+    "tFatherName": "SONSAY",
+    "tMotherName": "UDASO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005412411",
+    "RegistrationNo": "VPM1803589",
+    "tRollNumber": "11010436",
+    "tName": "LALITA SINGH",
+    "tFatherName": "ASHA RAM",
+    "tMotherName": "INDRAWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005082411",
+    "RegistrationNo": "VPM0451676",
+    "tRollNumber": "11010437",
+    "tName": "MAMTA GIRI",
+    "tFatherName": "ANIL GIRI",
+    "tMotherName": "SARITA GIRI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005394411",
+    "RegistrationNo": "VPM1800720",
+    "tRollNumber": "11010438",
+    "tName": "ROSHNI",
+    "tFatherName": "ROHIT KUMAR SINGH",
+    "tMotherName": "SHIV KUMARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005318411",
+    "RegistrationNo": "VPM1482000",
+    "tRollNumber": "11010439",
+    "tName": "RAKESH KUMAR",
+    "tFatherName": "BHUVAN CHANDRA",
+    "tMotherName": "LATE RAJNI BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005389411",
+    "RegistrationNo": "VPM0272972",
+    "tRollNumber": "11010440",
+    "tName": "DURGAWATI NETAM",
+    "tFatherName": "YADUVANSHI SINGH ",
+    "tMotherName": "LEELAWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005346511",
+    "RegistrationNo": "VPM1376377",
+    "tRollNumber": "11010441",
+    "tName": "SUNIMA TIRKEY",
+    "tFatherName": "PARASNATH TIRKEY ",
+    "tMotherName": "ANITA TIRKEY",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005224611",
+    "RegistrationNo": "VPM0598208",
+    "tRollNumber": "11010442",
+    "tName": "KAVITA PAINKRA",
+    "tFatherName": "VISHESHWAR SAI",
+    "tMotherName": "RAKHI PAINKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005374611",
+    "RegistrationNo": "VPM1795819",
+    "tRollNumber": "11010443",
+    "tName": "SUDHA SINGH",
+    "tFatherName": "NAYAN SINGH",
+    "tMotherName": "SUKHMANIYA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005248611",
+    "RegistrationNo": "VPM0315967",
+    "tRollNumber": "11010444",
+    "tName": "SUMENDRA",
+    "tFatherName": "TANKESHWAR",
+    "tMotherName": "BUDHMANIA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005378611",
+    "RegistrationNo": "VPM0476943",
+    "tRollNumber": "11010445",
+    "tName": "PRERNA MINJ",
+    "tFatherName": "PHILIP",
+    "tMotherName": "ANITA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005270711",
+    "RegistrationNo": "VPM1568569",
+    "tRollNumber": "11010446",
+    "tName": "SINGARO",
+    "tFatherName": "ATWAR SINGH",
+    "tMotherName": "BHGWATI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393711",
+    "RegistrationNo": "VPM0796436",
+    "tRollNumber": "11010447",
+    "tName": "PRAKASH KUMAR KASHYAP",
+    "tFatherName": "MAHESH CHANDRA KASHYAP",
+    "tMotherName": "RAMBHA KASHYAP",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005177711",
+    "RegistrationNo": "VPM1281893",
+    "tRollNumber": "11010448",
+    "tName": "ANAMIKA TOPPO",
+    "tFatherName": "JANSAN TOPPO",
+    "tMotherName": "ASHAMANI TOPPO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005397711",
+    "RegistrationNo": "VPM1801319",
+    "tRollNumber": "11010449",
+    "tName": "LALINA TOPPO",
+    "tFatherName": "RAMKHILAVAN",
+    "tMotherName": "PRAMILA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005389711",
+    "RegistrationNo": "VPM0206984",
+    "tRollNumber": "11010450",
+    "tName": "MANJU",
+    "tFatherName": "DHARMPAL",
+    "tMotherName": "KUSUM",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005126811",
+    "RegistrationNo": "VPM1731700",
+    "tRollNumber": "11010451",
+    "tName": "BALWAN RAM GUPTA",
+    "tFatherName": "BHAJAN RAM",
+    "tMotherName": "KIRAN",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005386811",
+    "RegistrationNo": "VPM1798907",
+    "tRollNumber": "11010452",
+    "tName": "BHUWANTI",
+    "tFatherName": "LAGAN RAM",
+    "tMotherName": "JAKUN BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005299811",
+    "RegistrationNo": "VPM1131819",
+    "tRollNumber": "11010453",
+    "tName": "RAJINDER",
+    "tFatherName": "SANTRAM",
+    "tMotherName": "RAMPATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005322911",
+    "RegistrationNo": "VPM1291936",
+    "tRollNumber": "11010454",
+    "tName": "NEELAM PAIKRA",
+    "tFatherName": "DASHARATH RAM",
+    "tMotherName": "PHOOLESHWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005393911",
+    "RegistrationNo": "VPM0580432",
+    "tRollNumber": "11010455",
+    "tName": "PUJA",
+    "tFatherName": "SON SAI",
+    "tMotherName": "ANITA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005376911",
+    "RegistrationNo": "VPM0988441",
+    "tRollNumber": "11010456",
+    "tName": "SARITA",
+    "tFatherName": "DEVKUMAR",
+    "tMotherName": "MANJO",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005413021",
+    "RegistrationNo": "VPM1575590",
+    "tRollNumber": "11010457",
+    "tName": "FRINCE BADA",
+    "tFatherName": "BIHAR SAY ",
+    "tMotherName": "DEWANTI BADA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005404021",
+    "RegistrationNo": "VPM0917627",
+    "tRollNumber": "11010458",
+    "tName": "JEEVANTI LAKRA",
+    "tFatherName": "UMESH LAKRA",
+    "tMotherName": "FATIMA LAKRA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005036021",
+    "RegistrationNo": "VPM1140270",
+    "tRollNumber": "11010459",
+    "tName": "HARIOM EKKA",
+    "tFatherName": "SAROJ EKKA",
+    "tMotherName": "TARSHILA EKKA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005407021",
+    "RegistrationNo": "VPM0894204",
+    "tRollNumber": "11010460",
+    "tName": "RUBA DEWANGAN",
+    "tFatherName": "RAMJANAM DEWANGAN",
+    "tMotherName": "DHANESWARI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005090121",
+    "RegistrationNo": "VPM0996763",
+    "tRollNumber": "11010461",
+    "tName": "SEEMA SINGH",
+    "tFatherName": "BIHARI SINGH",
+    "tMotherName": "MANMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005102121",
+    "RegistrationNo": "VPM1328897",
+    "tRollNumber": "11010462",
+    "tName": "VIKASH CHOUDHARY",
+    "tFatherName": "SURENDRA CHOUDHARY ",
+    "tMotherName": "LAXMI CHOUDHARY",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005303121",
+    "RegistrationNo": "VPM0175348",
+    "tRollNumber": "11010463",
+    "tName": "KAPOOR SINGH",
+    "tFatherName": "RUP SAI ",
+    "tMotherName": "MANKUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005374121",
+    "RegistrationNo": "VPM0905063",
+    "tRollNumber": "11010464",
+    "tName": "GEETA SINGH",
+    "tFatherName": "UDAYABHAN SINGH",
+    "tMotherName": "BASANTI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005155121",
+    "RegistrationNo": "VPM0109723",
+    "tRollNumber": "11010465",
+    "tName": "DILESHWAR",
+    "tFatherName": "RAMESH KUMAR ",
+    "tMotherName": "INDRAKUNWAR",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005126121",
+    "RegistrationNo": "VPM1660346",
+    "tRollNumber": "11010466",
+    "tName": "JITENDRA SINGH",
+    "tFatherName": "KHELAWAN ",
+    "tMotherName": "AANWALA BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005290221",
+    "RegistrationNo": "VPM0444745",
+    "tRollNumber": "11010467",
+    "tName": "PUSHPA SINGH",
+    "tFatherName": "HARISHANKAR SINGH",
+    "tMotherName": "SHYAMA DEVI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005385221",
+    "RegistrationNo": "VPM1366523",
+    "tRollNumber": "11010468",
+    "tName": "RAJPAL SINGH",
+    "tFatherName": "BALBHADRA",
+    "tMotherName": "KALAM BAI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005387221",
+    "RegistrationNo": "VPM0302106",
+    "tRollNumber": "11010469",
+    "tName": "GAYATRI",
+    "tFatherName": "SHIV RAM",
+    "tMotherName": "INDRO BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005400321",
+    "RegistrationNo": "VPM0614087",
+    "tRollNumber": "11010470",
+    "tName": "AMARSAY",
+    "tFatherName": "FAGUNARAM",
+    "tMotherName": "CHANDRAVATI",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005392321",
+    "RegistrationNo": "VPM1800120",
+    "tRollNumber": "11010471",
+    "tName": "RADHA BAI",
+    "tFatherName": "RAM DAS",
+    "tMotherName": "LEELA BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005034321",
+    "RegistrationNo": "VPM1014680",
+    "tRollNumber": "11010472",
+    "tName": "LALITA KUJUR",
+    "tFatherName": "JUVEL KUJUR",
+    "tMotherName": "GLORIYA",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005395321",
+    "RegistrationNo": "VPM0366513",
+    "tRollNumber": "11010473",
+    "tName": "BRIJLAL YADAV",
+    "tFatherName": "RAM PRAKASH YADAV",
+    "tMotherName": "SANTRA YADAV",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005051421",
+    "RegistrationNo": "VPM1608338",
+    "tRollNumber": "11010474",
+    "tName": "GAYATRI BAI",
+    "tFatherName": "PARASNATH RAM ",
+    "tMotherName": "RAYMUNI BAI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005322421",
+    "RegistrationNo": "VPM1281437",
+    "tRollNumber": "11010475",
+    "tName": "SHIVALI SINGH",
+    "tFatherName": "SHIVNANDAN SINGH",
+    "tMotherName": "KALAWATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005075421",
+    "RegistrationNo": "VPM1472536",
+    "tRollNumber": "11010476",
+    "tName": "SATYAJEET",
+    "tFatherName": "RAJENDRA ",
+    "tMotherName": "SUMITRA",
+    "Gender": "Male"
+  },
+  {
+    "tApplicationNo": "NSMF250005246421",
+    "RegistrationNo": "VPM1253473",
+    "tRollNumber": "11010477",
+    "tName": "SUNITA PAIKRA",
+    "tFatherName": "BALRAM",
+    "tMotherName": "ASHPATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005123521",
+    "RegistrationNo": "VPM0063422",
+    "tRollNumber": "11010478",
+    "tName": "SUNITA SINGH",
+    "tFatherName": "DHANESHWAR SINGH",
+    "tMotherName": "FOOLMATI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005386521",
+    "RegistrationNo": "VPM0793313",
+    "tRollNumber": "11010479",
+    "tName": "ANUPA MINJ",
+    "tFatherName": "SOMARU RAM",
+    "tMotherName": "HIRAMUNI",
+    "Gender": "Female"
+  },
+  {
+    "tApplicationNo": "NSMF250005389521",
+    "RegistrationNo": "VPM1119179",
+    "tRollNumber": "11010480",
+    "tName": "ANJALI TIGGA",
+    "tFatherName": "DILLI TIGGA",
+    "tMotherName": "SAVITRI",
+    "Gender": "Female"
+  }
+]
