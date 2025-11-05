@@ -1,0 +1,36 @@
+[
+  {
+    "id": "exam-2025-11-07",
+    "title": "Mathematics Final Examination - Nov 2025",
+    "date": "2025-11-07",
+    "candidates": [
+      { "id": "C001", "name": "Aaditya Kumar", "roll": "R001", "admit_qr": "C001" },
+      { "id": "C002", "name": "Bina Sharma", "roll": "R002", "admit_qr": "C002" },
+      { "id": "C003", "name": "Chirag Mehta", "roll": "R003", "admit_qr": "C003" },
+      { "id": "C004", "name": "Divya Patel", "roll": "R004", "admit_qr": "C004" },
+      { "id": "C005", "name": "Eshan Verma", "roll": "R005", "admit_qr": "C005" },
+      { "id": "C006", "name": "Fatima Khan", "roll": "R006", "admit_qr": "C006" },
+      { "id": "C007", "name": "Gaurav Singh", "roll": "R007", "admit_qr": "C007" },
+      { "id": "C008", "name": "Harini Reddy", "roll": "R008", "admit_qr": "C008" },
+      { "id": "C009", "name": "Isha Nair", "roll": "R009", "admit_qr": "C009" },
+      { "id": "C010", "name": "Jayant Malhotra", "roll": "R010", "admit_qr": "C010" }
+    ]
+  },
+  {
+    "id": "exam-2025-12-01",
+    "title": "Physics Practical Examination - Dec 2025",
+    "date": "2025-12-01",
+    "candidates": [
+      { "id": "P001", "name": "Karan Thakur", "roll": "R011", "admit_qr": "P001" },
+      { "id": "P002", "name": "Lavanya Das", "roll": "R012", "admit_qr": "P002" },
+      { "id": "P003", "name": "Manish Jain", "roll": "R013", "admit_qr": "P003" },
+      { "id": "P004", "name": "Neha Gupta", "roll": "R014", "admit_qr": "P004" },
+      { "id": "P005", "name": "Omkar Rao", "roll": "R015", "admit_qr": "P005" },
+      { "id": "P006", "name": "Pooja Iyer", "roll": "R016", "admit_qr": "P006" },
+      { "id": "P007", "name": "Raghav Sharma", "roll": "R017", "admit_qr": "P007" },
+      { "id": "P008", "name": "Sneha Bhat", "roll": "R018", "admit_qr": "P008" },
+      { "id": "P009", "name": "Tanya Joseph", "roll": "R019", "admit_qr": "P009" },
+      { "id": "P010", "name": "Utkarsh Mishra", "roll": "R020", "admit_qr": "P010" }
+    ]
+  }
+]
