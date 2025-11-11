@@ -1,37 +1,36 @@
-{
-  "exams": [
-    {
-      "examId": "exam-2025-11-07",
-      "title": "Mathematics Final Examination - Nov 2025",
-      "date": "2025-11-07"
-    },
-    {
-      "examId": "exam-2025-12-01",
-      "title": "Physics Practical Examination - Dec 2025",
-      "date": "2025-12-01"
-    }
-  ],
-  "candidates": [
-    { "id": 1, "examId": "exam-2025-11-07", "roll": "R001", "name": "Aaditya Kumar", "admitQr": "C001", "isPresent": false },
-    { "id": 2, "examId": "exam-2025-11-07", "roll": "R002", "name": "Bina Sharma", "admitQr": "C002", "isPresent": false },
-    { "id": 3, "examId": "exam-2025-11-07", "roll": "R003", "name": "Chirag Mehta", "admitQr": "C003", "isPresent": false },
-    { "id": 4, "examId": "exam-2025-11-07", "roll": "R004", "name": "Divya Patel", "admitQr": "C004", "isPresent": false },
-    { "id": 5, "examId": "exam-2025-11-07", "roll": "R005", "name": "Eshan Verma", "admitQr": "C005", "isPresent": false },
-    { "id": 6, "examId": "exam-2025-11-07", "roll": "R006", "name": "Fatima Khan", "admitQr": "C006", "isPresent": false },
-    { "id": 7, "examId": "exam-2025-11-07", "roll": "R007", "name": "Gaurav Singh", "admitQr": "C007", "isPresent": false },
-    { "id": 8, "examId": "exam-2025-11-07", "roll": "R008", "name": "Harini Reddy", "admitQr": "C008", "isPresent": false },
-    { "id": 9, "examId": "exam-2025-11-07", "roll": "R009", "name": "Isha Nair", "admitQr": "C009", "isPresent": false },
-    { "id": 10, "examId": "exam-2025-11-07", "roll": "R010", "name": "Jayant Malhotra", "admitQr": "C010", "isPresent": false },
-
-    { "id": 11, "examId": "exam-2025-12-01", "roll": "R011", "name": "Karan Thakur", "admitQr": "P001", "isPresent": false },
-    { "id": 12, "examId": "exam-2025-12-01", "roll": "R012", "name": "Lavanya Das", "admitQr": "P002", "isPresent": false },
-    { "id": 13, "examId": "exam-2025-12-01", "roll": "R013", "name": "Manish Jain", "admitQr": "P003", "isPresent": false },
-    { "id": 14, "examId": "exam-2025-12-01", "roll": "R014", "name": "Neha Gupta", "admitQr": "P004", "isPresent": false },
-    { "id": 15, "examId": "exam-2025-12-01", "roll": "R015", "name": "Omkar Rao", "admitQr": "P005", "isPresent": false },
-    { "id": 16, "examId": "exam-2025-12-01", "roll": "R016", "name": "Pooja Iyer", "admitQr": "P006", "isPresent": false },
-    { "id": 17, "examId": "exam-2025-12-01", "roll": "R017", "name": "Raghav Sharma", "admitQr": "P007", "isPresent": false },
-    { "id": 18, "examId": "exam-2025-12-01", "roll": "R018", "name": "Sneha Bhat", "admitQr": "P008", "isPresent": false },
-    { "id": 19, "examId": "exam-2025-12-01", "roll": "R019", "name": "Tanya Joseph", "admitQr": "P009", "isPresent": false },
-    { "id": 20, "examId": "exam-2025-12-01", "roll": "R020", "name": "Utkarsh Mishra", "admitQr": "P010", "isPresent": false }
-  ]
-}
+[
+  {
+    "examId": "exam-2025-11-07",
+    "title": "Mathematics Final Examination - Nov 2025",
+    "date": "2025-11-07",
+    "candidates": [
+      { "roll": "R001", "name": "Aaditya Kumar", "admitQr": "C001" },
+      { "roll": "R002", "name": "Bina Sharma", "admitQr": "C002" },
+      { "roll": "R003", "name": "Chirag Mehta", "admitQr": "C003" },
+      { "roll": "R004", "name": "Divya Patel", "admitQr": "C004" },
+      { "roll": "R005", "name": "Eshan Verma", "admitQr": "C005" },
+      { "roll": "R006", "name": "Fatima Khan", "admitQr": "C006" },
+      { "roll": "R007", "name": "Gaurav Singh", "admitQr": "C007" },
+      { "roll": "R008", "name": "Harini Reddy", "admitQr": "C008" },
+      { "roll": "R009", "name": "Isha Nair", "admitQr": "C009" },
+      { "roll": "R010", "name": "Jayant Malhotra", "admitQr": "C010" }
+    ]
+  },
+  {
+    "examId": "exam-2025-12-01",
+    "title": "Physics Practical Examination - Dec 2025",
+    "date": "2025-12-01",
+    "candidates": [
+      { "roll": "R011", "name": "Karan Thakur", "admitQr": "P001" },
+      { "roll": "R012", "name": "Lavanya Das", "admitQr": "P002" },
+      { "roll": "R013", "name": "Manish Jain", "admitQr": "P003" },
+      { "roll": "R014", "name": "Neha Gupta", "admitQr": "P004" },
+      { "roll": "R015", "name": "Omkar Rao", "admitQr": "P005" },
+      { "roll": "R016", "name": "Pooja Iyer", "admitQr": "P006" },
+      { "roll": "R017", "name": "Raghav Sharma", "admitQr": "P007" },
+      { "roll": "R018", "name": "Sneha Bhat", "admitQr": "P008" },
+      { "roll": "R019", "name": "Tanya Joseph", "admitQr": "P009" },
+      { "roll": "R020", "name": "Utkarsh Mishra", "admitQr": "P010" }
+    ]
+  }
+]
